@@ -479,7 +479,7 @@ Geely Coolray — это автомобиль, который подарит в�
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>710000</max_discount>
+			<max_discount>810000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D6RS205320</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
@@ -511,7 +511,27 @@ Geely Coolray — это автомобиль, который подарит в�
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/cc1357feef402fb36469f77fb087feed.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/f8f20bd64286f40ea4186013616f794a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/58c8d45d5ed784db98499eb0001d84c8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/037b68950a013b62c29c39e95e5ded52.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/e9e4368471a3d7f447d8fc587b4c436b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/99f73b6947e291f64cf14fac1c6f42ea.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/a69743cdb65903aadf22ab1e1a6f1049.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/65bbafa887bcf689cdd018a177605db4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/0e5ac5f4e9a6d7005b45e25b238aab74.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/c616357aa17aeec2fa520122f162766f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/bb37f2f5580e54efd2284e81b5276d90.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/d134546478b0e1ddac5554ab91fbf00d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/b1bdaac42faf7302ceca73e8310b9d69.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/98ee2a325c5fbe637ea1a910399583d4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/46f2cea54e7fd6232a92c1bad1d04026.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/06ce423592d2dcc30ea40fbdcc22dadb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/9fde87565e9bda5ed37f3c2124de3f24.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/aa0a7b10566a5773a691dba6f250fa2c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS205320/a2d800c7cdf5099800848f83abd45630.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -624,7 +644,19 @@ Geely Coolray — это автомобиль, который подарит в�
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/334b1106a30e7c7472132c45fdb1cfc0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/de7e0c4342f6e1c31470e217e4622c4c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/d4c8feb1746cd79f5c9e1c02aea5a66b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/092289208069541823b709a6de24b9fc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/748d079bde9ba5942049e71226172463.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/ab2a349857fe275048c5fdd802f35108.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/fa36177671cfc6d393a684dae6d3f9b0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/98a1aac8965e6f7e12c59dbeaf235c90.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/48dad2405e056d1d4999c3e5089055be.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/8a74c84d1cc767407b4a0de5847c56d8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/f93c9c6385150b543ca7dd2ebc946380.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -674,7 +706,17 @@ Geely Coolray — это автомобиль, который подарит в�
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/ef3b75319bbd1a32d0705551faafa7d4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/608f28c13893f5d738f73462cb37d5a0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/e551eec73d845dca2e2dc8e9846264d6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/fcbf29c25ebad0c225d11b770443f32c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/d225c1436ed13c3d0f14886396f5283a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/b5d6c9e02beaa2b7acdfa82b420c2afd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/3b256b7b35eb4755abaa38e05db7f8d5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/ff27f917cbcc0f74aaa5697faff9662d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/db5ca0a8348b880ff29b06d0c20101f3.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -845,7 +887,24 @@ Geely Coolray — это автомобиль, который подарит в�
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/2f758718f03572f0540d97a150235489.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/bf96edb5517247dce05e4a114d6cbf44.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/01a7fbb6678f982130be27cc6d7455cc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/8574237838081276d750ccb5c404eb99.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/72b0ac7bd17b7f509f1d5e8a3768445d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/669e3caebe6c637418ef715b1b90b19a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/7b5f7286ebbc832986e1dcb24919daa4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/3286eaf7c0ed93d1f8930ee6a4ae1af0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/9167a50e085796c2091a2add751d21bb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/1234b5ae4035b542c09896a5b3e2668a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/ee0feea4599f607547951f6c00555e23.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/a81848be6ae8ea075270342f1b52a4c0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/9d0d8803c63adca3b989604bfc4594ee.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/b9238034ebfc6c942e80a6809525792a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/b4b9c6574ad73c5bd6034a6ad6bbe78b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/1f5db4eac192198a99552cfed52a2f19.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -895,7 +954,24 @@ Geely Coolray — это автомобиль, который подарит в�
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/c232f0c8f9a7da08367901ce8c02f451.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/32f39df3cc37a9afad9218a598c2a3b0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/434038d86119da568d6204233fcaa202.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/4e9f4ca27e53bb4131a2f934b5cd65f4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/fb4334b7c0c55adac31f681485b7cb09.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/e502dba702d6ae8758508000c089b100.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/5dde457e27c079788b5c494746cde4df.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/1d529ce996e2b27b27c85f08fbfd75c9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/c3fcc67bddb0b7362c83835080437b6b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/c89449e92918be83abdeaa87319e587f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/e0454e6d3d124ea401886f6f4f6f1601.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/38fbe8c04bf4c5c221266ba580dfae35.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/2b44e3683b908fefdfa91d4bb6e2abe0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/0a16052c107e9302ddbbf7dde2f0dd9f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/f4fefe50fc8aa9c0259e90783ddc5400.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/ba5a1449718e3ef9f1cbe51995943d9a.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1050,9 +1126,9 @@ Geely Coolray — это автомобиль, который подарит в�
 			<price>3567190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>258000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>568000</max_discount>
 			<currency>RUR</currency>
 			<vin>L6TFS1S82RD107524</vin>
 			<description>ПAРTHEP АВТО - oфициальный дилер GЕELY в гоpодe Opенбуpге.
@@ -1112,9 +1188,9 @@ Geely Preface I Рестайлинг 2 — выбор тех, кто ищет с
 			<price>3567190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>258000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>568000</max_discount>
 			<currency>RUR</currency>
 			<vin>L6TFS1S8XRD105987</vin>
 			<description>ПAРTHEP АВТО - oфициальный дилер GЕELY в гоpодe Opенбуpге.
@@ -1152,7 +1228,13 @@ Geely Preface I Рестайлинг 2 — это воплощение стил�
 Коробка передач — робот, который обеспечивает плавное и точное переключение передач. Это делает управление автомобилем ещё более приятным и комфортным.
 
 Geely Preface I Рестайлинг 2 — выбор тех, кто ищет сочетание стиля, комфорта и динамики.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/L6TFS1S8XRD105987/56f934cea6b4500ba095ecc7b4e56959.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S8XRD105987/b202bab9ebdb993cd608645faa96cafb.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S8XRD105987/a35ad75fb1d30342576037ab17ac4cb1.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S8XRD105987/42b955ac309603e008af308d18794d7f.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TFS1S8XRD105987/6ea3098171a5c2a8871001ab19b69b64.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
