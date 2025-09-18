@@ -931,18 +931,18 @@ Geely Coolray — это автомобиль, который подарит в�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
 		<car>
-			<unique_id>84216df5cb28fcfb3db65d7a0f1e1d42</unique_id>
+			<unique_id>91eb985c2bf3e087dcefe1c3f5e2facb</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
+			<color>Белый</color>
+			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>12</run>
+			<run>16</run>
 			<year>2025</year>
 			<price>4852190</price>
 			<credit_discount>0</credit_discount>
@@ -951,7 +951,7 @@ Geely Coolray — это автомобиль, который подарит в�
 			<optional_discount>0</optional_discount>
 			<max_discount>760000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D7SS087283</vin>
+			<vin>LB37852D0SS054819</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
 
 В наличии новый Geely MONJARO, в комплектации Flagship.
@@ -976,32 +976,40 @@ Geely Coolray — это автомобиль, который подарит в�
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/e0384d32e8ea3f356717cae89b231e26.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/3281035d19d01dc18ba0dbf7d3525d15.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/6a575ab4bc4b86fdc73b7f65f90607d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/41740992f97fda7e433da2e667431ab7.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/dd68b273daca7780be7df953e43af073.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/03a3078159213318156dce0a2a37f65c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/04e198c9c0271aa03c50e32b96cf077b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/d15f075f9d6e04f69da204273cb83dbb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/2f758718f03572f0540d97a150235489.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/bf96edb5517247dce05e4a114d6cbf44.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/01a7fbb6678f982130be27cc6d7455cc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/8574237838081276d750ccb5c404eb99.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/72b0ac7bd17b7f509f1d5e8a3768445d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/669e3caebe6c637418ef715b1b90b19a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/7b5f7286ebbc832986e1dcb24919daa4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/3286eaf7c0ed93d1f8930ee6a4ae1af0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/9167a50e085796c2091a2add751d21bb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/1234b5ae4035b542c09896a5b3e2668a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/ee0feea4599f607547951f6c00555e23.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/a81848be6ae8ea075270342f1b52a4c0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/9d0d8803c63adca3b989604bfc4594ee.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/b9238034ebfc6c942e80a6809525792a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/b4b9c6574ad73c5bd6034a6ad6bbe78b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS054819/1f5db4eac192198a99552cfed52a2f19.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2025/</url></car>
 		<car>
-			<unique_id>e69077f98c53e0f35c0c5e95ef3fe048</unique_id>
+			<unique_id>a2614d0e4b01fbe4792738a0743b7c33</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
+			<color>Белый</color>
+			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>11</run>
+			<run>5</run>
 			<year>2025</year>
 			<price>4852190</price>
 			<credit_discount>0</credit_discount>
@@ -1010,7 +1018,7 @@ Geely Coolray — это автомобиль, который подарит в�
 			<optional_discount>0</optional_discount>
 			<max_discount>760000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D0SS051032</vin>
+			<vin>LB37852D4SS081814</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
 
 В наличии новый Geely MONJARO, в комплектации Flagship.
@@ -1035,142 +1043,27 @@ Geely Coolray — это автомобиль, который подарит в�
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D0SS051032/ef3b75319bbd1a32d0705551faafa7d4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS051032/608f28c13893f5d738f73462cb37d5a0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS051032/e551eec73d845dca2e2dc8e9846264d6.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS051032/fcbf29c25ebad0c225d11b770443f32c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS051032/d225c1436ed13c3d0f14886396f5283a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS051032/b5d6c9e02beaa2b7acdfa82b420c2afd.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS051032/3b256b7b35eb4755abaa38e05db7f8d5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS051032/ff27f917cbcc0f74aaa5697faff9662d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS051032/db5ca0a8348b880ff29b06d0c20101f3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/c232f0c8f9a7da08367901ce8c02f451.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/32f39df3cc37a9afad9218a598c2a3b0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/434038d86119da568d6204233fcaa202.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/4e9f4ca27e53bb4131a2f934b5cd65f4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/fb4334b7c0c55adac31f681485b7cb09.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/e502dba702d6ae8758508000c089b100.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/5dde457e27c079788b5c494746cde4df.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/1d529ce996e2b27b27c85f08fbfd75c9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/c3fcc67bddb0b7362c83835080437b6b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/c89449e92918be83abdeaa87319e587f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/e0454e6d3d124ea401886f6f4f6f1601.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/38fbe8c04bf4c5c221266ba580dfae35.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/2b44e3683b908fefdfa91d4bb6e2abe0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/0a16052c107e9302ddbbf7dde2f0dd9f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/f4fefe50fc8aa9c0259e90783ddc5400.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D4SS081814/ba5a1449718e3ef9f1cbe51995943d9a.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
-		<car>
-			<unique_id>90ccc62deeacd8cd32281d16aeba88ac</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2025</year>
-			<price>4852190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>760000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D2SS052635</vin>
-			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, в комплектации Flagship.
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Если новый Джили, то в Джили Партнер Оренбург на Загородном шоссе 13/1.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/334b1106a30e7c7472132c45fdb1cfc0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/de7e0c4342f6e1c31470e217e4622c4c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/d4c8feb1746cd79f5c9e1c02aea5a66b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/092289208069541823b709a6de24b9fc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/748d079bde9ba5942049e71226172463.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/ab2a349857fe275048c5fdd802f35108.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/fa36177671cfc6d393a684dae6d3f9b0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/98a1aac8965e6f7e12c59dbeaf235c90.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/48dad2405e056d1d4999c3e5089055be.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/8a74c84d1cc767407b4a0de5847c56d8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/f93c9c6385150b543ca7dd2ebc946380.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
-		<car>
-			<unique_id>3db3f5fe1a8ce5662aa8c0bdb1d52b02</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>29</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>760000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D9RS202220</vin>
-			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, в комплектации Flagship.
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Если новый Джили, то в Джили Партнер Оренбург на Загородном шоссе 13/1.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D9RS202220/c487b99d5ca668dfa092afbc25b37067.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D9RS202220/ac346b4bc2908abeabdaa7d31bb17cad.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D9RS202220/e6d73c217b74cfa19221a7ebabce37cb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D9RS202220/c35042aed84c1bb0cba5ab8ec63b3c88.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D9RS202220/114c80e820de73d8b80519414c7dcae0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D9RS202220/2e3ed5195438a4bc9655c1d0edf15819.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D9RS202220/3d30132bd3d7ef7ea42ee479f44cfd9e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D9RS202220/c5d7badce9e2f1f2014f39d4402ee886.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D9RS202220/371eecbc699adf20410810133229e932.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2025/</url></car>
 		<car>
 			<unique_id>6d687ffdbdfceeff128bc4d8f41ee778</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1240,19 +1133,19 @@ Geely Coolray — это автомобиль, который подарит в�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебряный-2025/</url></car>
 		<car>
-			<unique_id>a2614d0e4b01fbe4792738a0743b7c33</unique_id>
+			<unique_id>3db3f5fe1a8ce5662aa8c0bdb1d52b02</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
+			<color>Серый</color>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2025</year>
+			<run>29</run>
+			<year>2024</year>
 			<price>4852190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
@@ -1260,7 +1153,7 @@ Geely Coolray — это автомобиль, который подарит в�
 			<optional_discount>0</optional_discount>
 			<max_discount>760000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D4SS081814</vin>
+			<vin>LB37852D9RS202220</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
 
 В наличии новый Geely MONJARO, в комплектации Flagship.
@@ -1285,40 +1178,33 @@ Geely Coolray — это автомобиль, который подарит в�
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/c232f0c8f9a7da08367901ce8c02f451.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/32f39df3cc37a9afad9218a598c2a3b0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/434038d86119da568d6204233fcaa202.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/4e9f4ca27e53bb4131a2f934b5cd65f4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/fb4334b7c0c55adac31f681485b7cb09.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/e502dba702d6ae8758508000c089b100.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/5dde457e27c079788b5c494746cde4df.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/1d529ce996e2b27b27c85f08fbfd75c9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/c3fcc67bddb0b7362c83835080437b6b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/c89449e92918be83abdeaa87319e587f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/e0454e6d3d124ea401886f6f4f6f1601.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/38fbe8c04bf4c5c221266ba580dfae35.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/2b44e3683b908fefdfa91d4bb6e2abe0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/0a16052c107e9302ddbbf7dde2f0dd9f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/f4fefe50fc8aa9c0259e90783ddc5400.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D4SS081814/ba5a1449718e3ef9f1cbe51995943d9a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS202220/c487b99d5ca668dfa092afbc25b37067.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS202220/ac346b4bc2908abeabdaa7d31bb17cad.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS202220/e6d73c217b74cfa19221a7ebabce37cb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS202220/c35042aed84c1bb0cba5ab8ec63b3c88.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS202220/114c80e820de73d8b80519414c7dcae0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS202220/2e3ed5195438a4bc9655c1d0edf15819.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS202220/3d30132bd3d7ef7ea42ee479f44cfd9e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS202220/c5d7badce9e2f1f2014f39d4402ee886.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9RS202220/371eecbc699adf20410810133229e932.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2025/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
-			<unique_id>91eb985c2bf3e087dcefe1c3f5e2facb</unique_id>
+			<unique_id>90ccc62deeacd8cd32281d16aeba88ac</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
+			<color>Серый</color>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>16</run>
+			<run>8</run>
 			<year>2025</year>
 			<price>4852190</price>
 			<credit_discount>0</credit_discount>
@@ -1327,7 +1213,7 @@ Geely Coolray — это автомобиль, который подарит в�
 			<optional_discount>0</optional_discount>
 			<max_discount>760000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D0SS054819</vin>
+			<vin>LB37852D2SS052635</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
 
 В наличии новый Geely MONJARO, в комплектации Flagship.
@@ -1352,27 +1238,141 @@ Geely Coolray — это автомобиль, который подарит в�
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/2f758718f03572f0540d97a150235489.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/bf96edb5517247dce05e4a114d6cbf44.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/01a7fbb6678f982130be27cc6d7455cc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/8574237838081276d750ccb5c404eb99.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/72b0ac7bd17b7f509f1d5e8a3768445d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/669e3caebe6c637418ef715b1b90b19a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/7b5f7286ebbc832986e1dcb24919daa4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/3286eaf7c0ed93d1f8930ee6a4ae1af0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/9167a50e085796c2091a2add751d21bb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/1234b5ae4035b542c09896a5b3e2668a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/ee0feea4599f607547951f6c00555e23.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/a81848be6ae8ea075270342f1b52a4c0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/9d0d8803c63adca3b989604bfc4594ee.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/b9238034ebfc6c942e80a6809525792a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/b4b9c6574ad73c5bd6034a6ad6bbe78b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D0SS054819/1f5db4eac192198a99552cfed52a2f19.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/334b1106a30e7c7472132c45fdb1cfc0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/de7e0c4342f6e1c31470e217e4622c4c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/d4c8feb1746cd79f5c9e1c02aea5a66b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/092289208069541823b709a6de24b9fc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/748d079bde9ba5942049e71226172463.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/ab2a349857fe275048c5fdd802f35108.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/fa36177671cfc6d393a684dae6d3f9b0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/98a1aac8965e6f7e12c59dbeaf235c90.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/48dad2405e056d1d4999c3e5089055be.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/8a74c84d1cc767407b4a0de5847c56d8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/f93c9c6385150b543ca7dd2ebc946380.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2025/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
+		<car>
+			<unique_id>e69077f98c53e0f35c0c5e95ef3fe048</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>11</run>
+			<year>2025</year>
+			<price>4852190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>760000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D0SS051032</vin>
+			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely MONJARO, в комплектации Flagship.
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Если новый Джили, то в Джили Партнер Оренбург на Загородном шоссе 13/1.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/ef3b75319bbd1a32d0705551faafa7d4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/608f28c13893f5d738f73462cb37d5a0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/e551eec73d845dca2e2dc8e9846264d6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/fcbf29c25ebad0c225d11b770443f32c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/d225c1436ed13c3d0f14886396f5283a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/b5d6c9e02beaa2b7acdfa82b420c2afd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/3b256b7b35eb4755abaa38e05db7f8d5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/ff27f917cbcc0f74aaa5697faff9662d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS051032/db5ca0a8348b880ff29b06d0c20101f3.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
+		<car>
+			<unique_id>84216df5cb28fcfb3db65d7a0f1e1d42</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>12</run>
+			<year>2025</year>
+			<price>4852190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>760000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D7SS087283</vin>
+			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely MONJARO, в комплектации Flagship.
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Если новый Джили, то в Джили Партнер Оренбург на Загородном шоссе 13/1.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/e0384d32e8ea3f356717cae89b231e26.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/3281035d19d01dc18ba0dbf7d3525d15.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/6a575ab4bc4b86fdc73b7f65f90607d2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/41740992f97fda7e433da2e667431ab7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/dd68b273daca7780be7df953e43af073.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/03a3078159213318156dce0a2a37f65c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/04e198c9c0271aa03c50e32b96cf077b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/d15f075f9d6e04f69da204273cb83dbb.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
 		<car>
 			<unique_id>68df573c2f04d8d4135fc59e5b9b15a0</unique_id>
 			<mark_id>Geely</mark_id>
