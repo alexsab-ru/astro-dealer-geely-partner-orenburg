@@ -15,11 +15,11 @@
 			<run>10</run>
 			<year>2024</year>
 			<price>3917190</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>170000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
+			<tradein_discount>163000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>710000</max_discount>
+			<max_discount>643000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S12RB163225</vin>
 			<description>ПAРTHEP АВТО - oфициальный дилер GЕELY в гоpодe Opенбуpге.
@@ -107,11 +107,11 @@ Geely Atlas II — это идеальный выбор для тех, кто и
 			<run>35</run>
 			<year>2024</year>
 			<price>3917190</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>170000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>263000</tradein_discount>
+			<tradein_discount>163000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>710000</max_discount>
+			<max_discount>643000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S12RB101453</vin>
 			<description>ПAРTHEP АВТО - oфициальный дилер GЕELY в гоpодe Opенбуpге.
@@ -201,11 +201,11 @@ Geely Atlas II — это идеальный выбор для тех, кто и
 			<run>15</run>
 			<year>2024</year>
 			<price>3917190</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>170000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
+			<tradein_discount>163000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>513000</max_discount>
+			<max_discount>643000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S14RB154932</vin>
 			<description>ПAРTHEP АВТО - oфициальный дилер GЕELY в гоpодe Opенбуpге.
@@ -300,11 +300,11 @@ Geely Atlas II оснащён современными технологиями,
 			<run>3</run>
 			<year>2024</year>
 			<price>4017190</price>
-			<credit_discount>263000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>710000</max_discount>
+			<max_discount>680000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S18RB171300</vin>
 			<description>ПAРTHEP АВТО - oфициальный дилер GЕELY в гоpодe Opенбуpге.
@@ -392,11 +392,11 @@ Geely Atlas II оснащён современными технологиями,
 			<run>2</run>
 			<year>2024</year>
 			<price>3254190</price>
-			<credit_discount>200000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>190000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>440000</max_discount>
+			<max_discount>500000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3G43S98RX307362</vin>
 			<description>ПAРTHEP АВТО - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
@@ -678,11 +678,11 @@ Geely Coolray — это автомобиль, который подарит в�
 			<run>9</run>
 			<year>2024</year>
 			<price>5052190</price>
-			<credit_discount>200000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>810000</max_discount>
+			<max_discount>1050000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D5RS084800</vin>
 			<description>ПАРТНЕР АВТО - новый официальный дилер GEELY в городе Оренбурге.
@@ -850,68 +850,6 @@ Geely Coolray — это автомобиль, который подарит в�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
-			<unique_id>90ccc62deeacd8cd32281d16aeba88ac</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2025</year>
-			<price>4852190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>760000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D2SS052635</vin>
-			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
-
-В наличии новый Geely MONJARO, в комплектации Flagship.
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Если новый Джили, то в Джили Партнер Оренбург на Загородном шоссе 13/1.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/334b1106a30e7c7472132c45fdb1cfc0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/de7e0c4342f6e1c31470e217e4622c4c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/d4c8feb1746cd79f5c9e1c02aea5a66b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/092289208069541823b709a6de24b9fc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/748d079bde9ba5942049e71226172463.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/ab2a349857fe275048c5fdd802f35108.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/fa36177671cfc6d393a684dae6d3f9b0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/98a1aac8965e6f7e12c59dbeaf235c90.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/48dad2405e056d1d4999c3e5089055be.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/8a74c84d1cc767407b4a0de5847c56d8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2SS052635/f93c9c6385150b543ca7dd2ebc946380.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
-		<car>
 			<unique_id>e69077f98c53e0f35c0c5e95ef3fe048</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -972,7 +910,7 @@ Geely Coolray — это автомобиль, который подарит в�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
 		<car>
-			<unique_id>84216df5cb28fcfb3db65d7a0f1e1d42</unique_id>
+			<unique_id>90ccc62deeacd8cd32281d16aeba88ac</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -983,7 +921,7 @@ Geely Coolray — это автомобиль, который подарит в�
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>12</run>
+			<run>8</run>
 			<year>2025</year>
 			<price>4852190</price>
 			<credit_discount>0</credit_discount>
@@ -992,7 +930,7 @@ Geely Coolray — это автомобиль, который подарит в�
 			<optional_discount>0</optional_discount>
 			<max_discount>760000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D7SS087283</vin>
+			<vin>LB37852D2SS052635</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
 
 В наличии новый Geely MONJARO, в комплектации Flagship.
@@ -1017,14 +955,17 @@ Geely Coolray — это автомобиль, который подарит в�
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/e0384d32e8ea3f356717cae89b231e26.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/3281035d19d01dc18ba0dbf7d3525d15.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/6a575ab4bc4b86fdc73b7f65f90607d2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/41740992f97fda7e433da2e667431ab7.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/dd68b273daca7780be7df953e43af073.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/03a3078159213318156dce0a2a37f65c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/04e198c9c0271aa03c50e32b96cf077b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D7SS087283/d15f075f9d6e04f69da204273cb83dbb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/334b1106a30e7c7472132c45fdb1cfc0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/de7e0c4342f6e1c31470e217e4622c4c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/d4c8feb1746cd79f5c9e1c02aea5a66b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/092289208069541823b709a6de24b9fc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/748d079bde9ba5942049e71226172463.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/ab2a349857fe275048c5fdd802f35108.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/fa36177671cfc6d393a684dae6d3f9b0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/98a1aac8965e6f7e12c59dbeaf235c90.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/48dad2405e056d1d4999c3e5089055be.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/8a74c84d1cc767407b4a0de5847c56d8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D2SS052635/f93c9c6385150b543ca7dd2ebc946380.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -1092,6 +1033,65 @@ Geely Coolray — это автомобиль, который подарит в�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
 		<car>
+			<unique_id>84216df5cb28fcfb3db65d7a0f1e1d42</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>12</run>
+			<year>2025</year>
+			<price>4852190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>760000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D7SS087283</vin>
+			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
+
+В наличии новый Geely MONJARO, в комплектации Flagship.
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Если новый Джили, то в Джили Партнер Оренбург на Загородном шоссе 13/1.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/e0384d32e8ea3f356717cae89b231e26.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/3281035d19d01dc18ba0dbf7d3525d15.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/6a575ab4bc4b86fdc73b7f65f90607d2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/41740992f97fda7e433da2e667431ab7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/dd68b273daca7780be7df953e43af073.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/03a3078159213318156dce0a2a37f65c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/04e198c9c0271aa03c50e32b96cf077b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D7SS087283/d15f075f9d6e04f69da204273cb83dbb.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2025/</url></car>
+		<car>
 			<unique_id>4a810cf48a7b33344b94d8280939b76e</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Preface, I Рестайлинг 2</folder_id>
@@ -1110,7 +1110,7 @@ Geely Coolray — это автомобиль, который подарит в�
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>258000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>568000</max_discount>
+			<max_discount>838000</max_discount>
 			<currency>RUR</currency>
 			<vin>L6TFS1S82RD107524</vin>
 			<description>ПAРTHEP АВТО - oфициальный дилер GЕELY в гоpодe Opенбуpге.
