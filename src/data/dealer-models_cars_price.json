@@ -19,6 +19,12 @@
   },
   {
     "brand": "Geely",
+    "model": "Cityray",
+    "price": 2591190,
+    "benefit": 503000
+  },
+  {
+    "brand": "Geely",
     "model": "Coolray",
     "price": 2336900,
     "benefit": 458090
