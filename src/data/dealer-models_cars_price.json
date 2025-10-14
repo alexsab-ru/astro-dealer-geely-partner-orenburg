@@ -8,7 +8,13 @@
   {
     "brand": "Geely",
     "model": "Monjaro",
-    "price": 4549990,
+    "price": 4089990,
+    "benefit": 460000
+  },
+  {
+    "brand": "Geely",
+    "model": "Preface",
+    "price": 3567190,
     "benefit": 0
   },
   {
