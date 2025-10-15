@@ -1,15 +1,21 @@
 [
   {
     "brand": "Geely",
+    "model": "Atlas",
+    "price": 3404190,
+    "benefit": 413000
+  },
+  {
+    "brand": "Geely",
     "model": "Cityray",
-    "price": 2591190,
+    "price": 2409990,
     "benefit": 503000
   },
   {
     "brand": "Geely",
     "model": "Monjaro",
     "price": 4089990,
-    "benefit": 460000
+    "benefit": 810000
   },
   {
     "brand": "Geely",
