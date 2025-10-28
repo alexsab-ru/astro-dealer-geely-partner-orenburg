@@ -207,9 +207,9 @@ Geely Atlas II оснащён современными технологиями,
 			<price>3717190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>163000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>363000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S11SB127225</vin>
 			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
@@ -284,9 +284,9 @@ Geely Atlas II — это идеальный выбор для тех, кто и
 			<price>3717190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>163000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>363000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S14SB125582</vin>
 			<description>ПAРTHEP - новый oфициальный дилер GЕELY в гоpодe Opенбуpге.
@@ -391,7 +391,18 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Flаgshiр.
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3G43S95SX308720/c39a0aba60b7f460ca432497db0242d5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S95SX308720/ab82c5c663be3b20ca54aea98c59359c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S95SX308720/7d5533f59a2ff138950709ca55de8c4f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S95SX308720/5406ee795655873a6be631bbbee7eca8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S95SX308720/197aea6db42b8ea525d888e55246e1f9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S95SX308720/e85d31a7e3e19f5bcaedd790c92f00c2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S95SX308720/a22bf83aa20f1a1b8e758bef998f7bfc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S95SX308720/d154445039af82f254b5809d3c45b80c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S95SX308720/f96cb82055975b8ffcf2103b7cc0e207.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S95SX308720/5ebbb4242402a694cc6cc92971824143.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -668,11 +679,11 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 			<run>5</run>
 			<year>2025</year>
 			<price>4852190</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>760000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852DXSS194022</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
@@ -698,7 +709,18 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852DXSS194022/aabcdc81733c4a7a0b054db315af315d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXSS194022/03a4898679e93093fb6f9a130f160cac.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXSS194022/fe42821c118e47ff319f3a6b78a07f96.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXSS194022/5db83cff224d65af8c1b030ec2c61546.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXSS194022/98ef495140502e788eb72b32230865ef.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXSS194022/9964c680f0ed0181678a618df2934f6a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXSS194022/7fd17c57cbda2db8d1d9bc533586bb03.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXSS194022/6414ae68a5285e5bce7a90ccf7020cea.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXSS194022/2c7f54b3e5c9cfe2ed1255dfe3daac13.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852DXSS194022/e0ae55bcdcdee1b843c1a44bbec78a9b.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -718,11 +740,11 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 			<run>5</run>
 			<year>2025</year>
 			<price>4852190</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>760000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D0SS194286</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
@@ -748,7 +770,18 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D0SS194286/86b3bfe418860c797bf73b0d92b7da66.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS194286/1489ef870f676dbea63c00b5fbebdc65.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS194286/310598ad720625f4ed2fd2f17106c0b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS194286/d25e0a207838f1c0f8cbb70ba3056565.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS194286/2ee71302790d28d0d38aa7db45a898a1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS194286/edf9ae8d2a801a623f88b69a7473566b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS194286/ae2b2f574082233c7b867858df9a4e5f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS194286/b2a9b476c83a3db11c3ac02e966532af.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS194286/6459e82b5b99f603d2690220973253b1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D0SS194286/89449c437afc4b39fecc70f726a44bbc.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -768,11 +801,11 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 			<run>7</run>
 			<year>2025</year>
 			<price>4852190</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>760000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D2SS189915</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
@@ -835,11 +868,11 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 			<run>8</run>
 			<year>2025</year>
 			<price>4852190</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>760000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D1SS146828</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
@@ -865,7 +898,24 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/b18b742f149e07be9fe8049e7a0b86b0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/15a8771c216de900fa7b28e0c50d33b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/beace89a53c460f22582d49817855cdb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/8b16b38dfc2134ab2ec03e7a7ab98d50.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/a950f6a3db1b4c2f9cfa80036bbc6059.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/998610cfaf9b4dbf2486e133423e5ca6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/056b2ad6033e38549db8baebd9f273a2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/fbf34d6643518f587b8c71784ec9761c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/414ece4817f2d4ebefc3803266f39e5f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/8c280b1c1a6311342f420d4e98399c6f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/38d2ab3b0f1733ddf954dce3107d5ea0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/3d84a2f5f3d82a93efa55b656ceb8617.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/f968799842f622dbba3245f620631251.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/9a8304f9de2ae4633ae474688a2f4673.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/d95ae69d35f03a7f256fba1e0339e5ee.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS146828/68b394aba2dc32256abab624c7b7c7de.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -885,11 +935,11 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 			<run>8</run>
 			<year>2025</year>
 			<price>4852190</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>760000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D9SS145944</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
@@ -915,7 +965,24 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/f8ad28151e09395b1ae3e2603b91e9e4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/f874ae0356c427e7bc287520f23a717f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/392cd35659ab8292204ef25798a1728c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/6a11576f7a81dce8fb55e4ab63708118.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/5ae3005ac4bf4a34487fb5e0df02743b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/a62e0886b32db9426d5c371f6c97b9e9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/f77b17f052aff875596792b45ffae5ab.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/758c9073211bc9c654d209aa1394049d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/2a9e9612a4fdc275ce644379c0cd9531.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/67a1b29e1d34f75c4d2853cf2ce04ab7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/20aa1181b419d91b06b132ca3ecd61bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/45936a893ef824bec46bb29177f6c3f9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/c4a4ea8a78eccdf1324b18c362726e86.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/d924a47fe331226b006a2d96262ca82e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/926b96642786ac313b08684c0e30ce37.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D9SS145944/1710cf7fe8dd4c975576d11dbed8511f.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -935,11 +1002,11 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 			<run>5</run>
 			<year>2025</year>
 			<price>4852190</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>760000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D1SS189906</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
@@ -965,7 +1032,24 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/cf059d312b7ce8332dda678ed9f54bd7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/4a74b54dd5730b471db2a0b2c4cd2bf6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/b8b17c2780b0bd0e7bfd60dd37487fb7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/5d33685d0e2c5a130b17bd5b1aadf9f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/c61b25e0a63554d0bfbaf8eae7fb1528.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/0f8556a62c2e9d10d34660dd95079865.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/24f32508dbb1f7d34c1dc481cf49f51a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/2dc022d48611bad90bcb7d27e23c055b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/377716b15292a88410f648aa409a029a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/302b85ce5aa453ab7dd5be0d821f87f7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/c48b2c3ec3934dc6761fa644395beebe.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/d88d0c13c251e13e09db14d45a22e781.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/9ca84541fd8287fdc26116c0ed8a40b1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/a6d83f6201d72331af22b6c13086f4ab.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/f72cd60a856063a0fb718fa797025eee.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS189906/ed121cff68906f6500faac8a3f574d78.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -985,11 +1069,11 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 			<run>5</run>
 			<year>2025</year>
 			<price>4852190</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>760000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D3SS187400</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
@@ -1015,7 +1099,25 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/104543d9c5fe4992cd5133b916925eb8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/fe3f25eb05783f812e571125f0a22f5d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/e3a465020517b1c426502c72b92466b4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/f3afb0cd02f56992c5d17b99347c918a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/917e16478bdf8d05281cc3cb7c76d227.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/83f56e64d6d2d6794d5ea7c1bb3c9441.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/8ac90b0c2bbe29d1dffe7693542cfedc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/f1a7071ba485ff4bf717cb57cc15dfd5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/c39c8a26b32ac7795f1f7eb441659b1f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/26af1da2d417f9eb4c6c7d215e66ea7c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/f85878c6d537c6d5702aba95aea661a2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/ecbb71a316356caaa86ebf857146c01e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/4df889be3aea479309286f7b9635fa0c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/87024b2ca6e8e2cdbf5e2135383d58e6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/142f03671bd67d211932d6fd3b2f65ea.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/f62402b1487a4aca0bd2c45b0abb8ccc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D3SS187400/ebc007936c28673d83750aff3682f4c1.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1035,11 +1137,11 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 			<run>5</run>
 			<year>2025</year>
 			<price>4852190</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>760000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D1SS188903</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
@@ -1065,7 +1167,25 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/294a6760ccfa3a4323634dca902ca392.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/d6ceacf23b3b86aedc631d5930f82bf2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/5b88d4698d5d4ea8d98043127e8994af.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/a2d2dd6aeafa3270924d16f2ae5e0b15.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/b274cbbf0e791f54ba7535005310bb3d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/a1a0939694a61acf4e52556c550e43c8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/1254ef14aff071d7c815170b1d7872e6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/b84c886fa99cf26dc9a105f99b13819a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/b010d02fd5dd5555b12d5aa276de5550.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/efbbf78a0151a449fcaa91170bfecffd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/79bcb75cdc72887fc7784217c20ba406.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/5a29092ca9455ce69250e38bdc4a983e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/117fb2eef3e9a5241e3ef3dd600d67c9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/1624e1b311c47264aed4913514b33a19.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/4d233e77a8e35183440dc89cd654c496.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/a097d669bae690f2cc38e7ac37fb5c6c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1SS188903/e33bf993381fc682121ba9082a0a5217.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1085,11 +1205,11 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 			<run>7</run>
 			<year>2025</year>
 			<price>4852190</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>760000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D1SS189551</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер GEELY в городе Оренбурге.
@@ -1148,7 +1268,7 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>460000</max_discount>
+			<max_discount>430000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D8SS155395</vin>
 			<description>ПАРТНЕР - официальный дилер GEELY в городе Оренбурге.
@@ -1209,9 +1329,9 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 			<price>3847190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>373000</tradein_discount>
+			<tradein_discount>0</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>758000</max_discount>
+			<max_discount>393000</max_discount>
 			<currency>RUR</currency>
 			<vin>L6TVX1S67SY702010</vin>
 			<description>ПAPTHEP АВТО - официальный дилер GЕELY в гоpодe Opeнбурге.
@@ -1239,7 +1359,21 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/L6TVX1S67SY702010/a0c4df817c85f90098b68cf4b6b65b20.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S67SY702010/ae5f919e713735f76b1d2c8dd14f7599.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S67SY702010/a7ed4f5297c556e26ca450c91946ba09.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S67SY702010/e17a6abdf31e075e6e9ab4763451a15b.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S67SY702010/77e60842a158cb653b8c5bee512f79f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S67SY702010/e76eb564e9e6419adcee9026ae360f94.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S67SY702010/2c038b6e5f5c9a8ef6f02244a03b8c18.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S67SY702010/7fc3284cfe0e6e41b525f1261fe39a56.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S67SY702010/3c7fe66ec4c5d71c5bece6160d3c23eb.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S67SY702010/82974f6adde2f702736a342904638b55.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S67SY702010/b9538803f40d90d9c6411e54cb60bfdf.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S67SY702010/e8739e84a9ed2d1a1e0d06a808209e21.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S67SY702010/fef2fc0828dbe5861b124189a8184f6d.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1261,9 +1395,9 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 			<price>3567190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>258000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>568000</max_discount>
 			<currency>RUR</currency>
 			<vin>L6TFS1S88RD150653</vin>
 			<description>В наличии новый Geely Preface, в комплектации Flagship.
@@ -1318,9 +1452,9 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 			<price>3567190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>258000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>568000</max_discount>
 			<currency>RUR</currency>
 			<vin>L6TFS1S83RD166503</vin>
 			<description />
