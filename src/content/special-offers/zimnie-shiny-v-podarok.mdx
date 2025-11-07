@@ -3,7 +3,7 @@ h1: "Зимние шины в подарок в Geely Партнер Оренб�
 caption: "Зимние шины в подарок"
 title: "Зимние шины в подарок в официальном дилерском центре Geely"
 breadcrumb: "Зимние шины в подарок"
-pubDate: 2024-12-10
+pubDate: 2025-11-01
 image: https://cdn.alexsab.ru/specials/geely/zimnie-shiny-v-podarok/geely-winter-tires-900x480.webp
 description: "При покупке нового автомобиля GEELY в Партнер Оренбург, комплект зимних шин (4 штуки) предоставляется покупателю в подарок, данное предложение действует на весь модельный ряд Geely"
 ---
@@ -11,8 +11,11 @@ import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import settings from '@/data/settings.json';
 export const { site_name, phone_common, brand } = settings;
 
-export const from = '01.12.2024';
-export const to = '25 декабря 2024';
+export const from = `01.${MONTH}.${YEAR}`;
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
 
 <picture>
 	<source media="(min-width: 1200px)" srcset="https://cdn.alexsab.ru/specials/geely/zimnie-shiny-v-podarok/geely-winter-tires-1304x480.webp" />
@@ -33,4 +36,4 @@ export const to = '25 декабря 2024';
 
 <SpecialSalonsInfo dataFormName="Узнать подробнее. Зимние шины в подарок"/>
 
-> Акция действительна с 5 по 25  декабря 2024 года
+> Акция действительна с 1 по {dateToGenitive} года
