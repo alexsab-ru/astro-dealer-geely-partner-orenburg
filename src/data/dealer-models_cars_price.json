@@ -8,14 +8,20 @@
   {
     "brand": "Geely",
     "model": "Cityray",
-    "price": 2709990,
-    "benefit": 140000
+    "price": 2729990,
+    "benefit": 120000
   },
   {
     "brand": "Geely",
     "model": "Monjaro",
     "price": 4552190,
     "benefit": 300000
+  },
+  {
+    "brand": "Geely",
+    "model": "OKAVANGO",
+    "price": 3524190,
+    "benefit": 373000
   },
   {
     "brand": "Geely",
@@ -26,7 +32,7 @@
   {
     "brand": "Knewstar",
     "model": "001",
-    "price": 3530190,
-    "benefit": 863000
+    "price": 3693190,
+    "benefit": 700000
   }
 ]
