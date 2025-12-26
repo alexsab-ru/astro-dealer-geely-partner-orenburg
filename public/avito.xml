@@ -287,7 +287,7 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>9</run>
+			<run>10</run>
 			<year>2025</year>
 			<price>2849990</price>
 			<credit_discount>120000</credit_discount>
@@ -810,7 +810,7 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4393190</price>
 			<credit_discount>480000</credit_discount>
@@ -898,34 +898,6 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-черный-2024/</url></car>
-		<car>
-			<unique_id>7ce34074d63a5aac333042216f6a158c</unique_id>
-			<mark_id>KNEWSTAR</mark_id>
-			<folder_id>001</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>4493190</price>
-			<credit_discount>480000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>370000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>1243190</max_discount>
-			<currency>RUR</currency>
-			<vin>LHA022GD8SB001998</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>bf6cc3d33f1cf9fe5ccb7bc44781d98c</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
@@ -1027,6 +999,34 @@ Knewstar , Ньюстар , Кньюстар , Официальный сайт ,
 				<image>https://photo.toyotasever.ru/LHA022GD4RB005203/0adc201918e65cfeb128a7fdda5c062b.jpeg</image>
 				<image>https://photo.toyotasever.ru/LHA022GD4RB005203/33db3d35fcc1fa59d3adf6eb687ccf2c.jpeg</image>
 			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>7ce34074d63a5aac333042216f6a158c</unique_id>
+			<mark_id>KNEWSTAR</mark_id>
+			<folder_id>001</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>4493190</price>
+			<credit_discount>480000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>370000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>1243190</max_discount>
+			<currency>RUR</currency>
+			<vin>LHA022GD8SB001998</vin>
+			<description />
+			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
