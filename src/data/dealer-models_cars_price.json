@@ -1,27 +1,45 @@
 [
   {
+    "brand": "Belgee",
+    "model": "S50",
+    "price": 2009990,
+    "benefit": 120000
+  },
+  {
+    "brand": "Belgee",
+    "model": "X50",
+    "price": 2360990,
+    "benefit": 330000
+  },
+  {
+    "brand": "Belgee",
+    "model": "X70",
+    "price": 2426190,
+    "benefit": 520000
+  },
+  {
     "brand": "Geely",
     "model": "Atlas",
-    "price": 3093800,
-    "benefit": 667190
+    "price": 3300990,
+    "benefit": 460000
   },
   {
     "brand": "Geely",
     "model": "Cityray",
-    "price": 2729990,
-    "benefit": 140000
+    "price": 2579990,
+    "benefit": 310000
   },
   {
     "brand": "Geely",
     "model": "OKAVANGO",
-    "price": 3011800,
-    "benefit": 897190
+    "price": 3285990,
+    "benefit": 623000
   },
   {
     "brand": "Geely",
     "model": "Preface",
-    "price": 2600000,
-    "benefit": 967190
+    "price": 2864190,
+    "benefit": 703000
   },
   {
     "brand": "Knewstar",
