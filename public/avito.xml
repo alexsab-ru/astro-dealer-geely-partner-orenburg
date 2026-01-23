@@ -249,7 +249,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2025</year>
 			<price>3970990</price>
 			<credit_discount>0</credit_discount>
@@ -333,6 +333,75 @@ Geely Atlas II — это идеальный выбор для тех, кто и
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-зеленый-2025/</url></car>
 		<car>
+			<unique_id>d8a772e27606eb963bf9e7b3a5434a1a</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Зеленый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2025</year>
+			<price>3760990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>160000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>460000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S12SB182380</vin>
+			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
+
+Официальный дилер GEELY - Партнер-Авто Оренбург
+Мы сделаем Вам самые лучшие условия на покупку нового автомобиля GEELY ATLAS Luxury 4x4
+
+ Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/1
+
+ГАРАНТИЯ
+⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+* Подробности в отделе продаж.
+
+Если новый Джили, то в Джили Партнер Оренбург на Загородном шоссе 13/1.
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+
+Geely , Жили , Джили , Купить Geely в Оренбурге , Купить Жили в Оренбурге, Купить Джили в Оренбурге, Cityray , Atlas , Okavango , Monjaro , Preface , Ситирей , Ситирэй, Атлас , Окаванго , Окаванга , Окованго , Окованга , Акаванго , Акаванга , Акованго , Акованга , Монджаро , Монжаро, Манджаро , Манжаро , Прифейс , Префейс , Прифейц , Префейц , Прифэйс , Префэйс , Прифэйц , Префэйц</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/5504afa8eac7090947fac0f13db2576c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/862a54ebb3b54a55d4652416eb252058.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/a1f7b09eef94db60b29bdedc2fdec533.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/f806f1c4b614c917534f0ab8f5e10c0e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/6225d17672ade64067b33aca9b99d6fc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/c4d8ada66818b7e68544581c5ac94167.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/342083041186939c3617eb0044b3886d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/61d2a17c65b1b4235ea5a43e48a4e805.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/0051c659a616f8b7a0d23167fb6df608.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-luxury-зеленый-2025/</url></car>
+		<car>
 			<unique_id>c9b2020b08fba46f2a107f0fe99bdc88</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -406,42 +475,38 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-luxury-черный-2025/</url></car>
 		<car>
-			<unique_id>d8a772e27606eb963bf9e7b3a5434a1a</unique_id>
+			<unique_id>831f86fb5512d65a8508c7b9327084e6</unique_id>
 			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Luxury</complectation_name>
+			<folder_id>Cityray</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Зеленый</color>
-			<metallic>нет</metallic>
+			<color>Белый</color>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>18</run>
 			<year>2025</year>
-			<price>3760990</price>
-			<credit_discount>0</credit_discount>
+			<price>2849990</price>
+			<credit_discount>120000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>160000</tradein_discount>
+			<tradein_discount>190000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>460000</max_discount>
+			<max_discount>310000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S12SB182380</vin>
-			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
+			<vin>LB3G43S94SX702337</vin>
+			<description>ПAРTHEP АВТО - oфициальный дилер GЕELY в гоpодe Opенбуpге.
 
-Официальный дилер GEELY - Партнер-Авто Оренбург
-Мы сделаем Вам самые лучшие условия на покупку нового автомобиля GEELY ATLAS Luxury 4x4
-
- Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/1
-
-ГАРАНТИЯ
-⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
+B наличии HOBЫЙ Cityray, в кoмплeктации Flаgshiр.
 
 ✅ PACCPОЧКA от 0,01%
 
 ✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
 
 ✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
 
 * Подробности в отделе продаж.
 
@@ -455,25 +520,21 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-
-Geely , Жили , Джили , Купить Geely в Оренбурге , Купить Жили в Оренбурге, Купить Джили в Оренбурге, Cityray , Atlas , Okavango , Monjaro , Preface , Ситирей , Ситирэй, Атлас , Окаванго , Окаванга , Окованго , Окованга , Акаванго , Акаванга , Акованго , Акованга , Монджаро , Монжаро, Манджаро , Манжаро , Прифейс , Префейс , Прифейц , Префейц , Прифэйс , Префэйс , Прифэйц , Префэйц</description>
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/5504afa8eac7090947fac0f13db2576c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/862a54ebb3b54a55d4652416eb252058.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/a1f7b09eef94db60b29bdedc2fdec533.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/f806f1c4b614c917534f0ab8f5e10c0e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/6225d17672ade64067b33aca9b99d6fc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/c4d8ada66818b7e68544581c5ac94167.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/342083041186939c3617eb0044b3886d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/61d2a17c65b1b4235ea5a43e48a4e805.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S12SB182380/0051c659a616f8b7a0d23167fb6df608.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/75954c359267e349a4e778d6f073a3a0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/998a08d9ef5514718e7ce01ec4aa0cdb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/46a92f5ca15b3ad3b0130b71b581f273.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/a92bfaac272ca490ee5601a929f5d74c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/75f5975dca4d6fb248cf8b7bdf531845.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/2c09daa042647f3dc77bc8aa193c3275.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/d87b5a6fc78e4e36b1baa436ecf4d8cb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/2e29668e720469195ed67452cecf020b.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-luxury-зеленый-2025/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/geely-cityray-15-amt-147-лс-flagship-белый-2025/</url></car>
 		<car>
 			<unique_id>02b2ab19df8d42f1cb880956fff4f3dd</unique_id>
 			<mark_id>Geely</mark_id>
@@ -603,67 +664,6 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Flаgshiр.
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-cityray-15-amt-147-лс-flagship-серый-2025/</url></car>
-		<car>
-			<unique_id>831f86fb5512d65a8508c7b9327084e6</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Cityray</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>18</run>
-			<year>2025</year>
-			<price>2849990</price>
-			<credit_discount>120000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>190000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>310000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3G43S94SX702337</vin>
-			<description>ПAРTHEP АВТО - oфициальный дилер GЕELY в гоpодe Opенбуpге.
-
-B наличии HOBЫЙ Cityray, в кoмплeктации Flаgshiр.
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Если новый Джили, то в Джили Партнер Оренбург на Загородном шоссе 13/1.
-
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/75954c359267e349a4e778d6f073a3a0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/998a08d9ef5514718e7ce01ec4aa0cdb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/46a92f5ca15b3ad3b0130b71b581f273.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/a92bfaac272ca490ee5601a929f5d74c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/75f5975dca4d6fb248cf8b7bdf531845.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/2c09daa042647f3dc77bc8aa193c3275.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/d87b5a6fc78e4e36b1baa436ecf4d8cb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3G43S94SX702337/2e29668e720469195ed67452cecf020b.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-cityray-15-amt-147-лс-flagship-белый-2025/</url></car>
 		<car>
 			<unique_id>b93e0c2eece326c9a59c20cd5e831f71</unique_id>
 			<mark_id>Geely</mark_id>
@@ -995,81 +995,6 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-okavango-15-amt-177-лс-flagship-синий-2025/</url></car>
 		<car>
-			<unique_id>2a4200d9254935195a8b415458720cd9</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Okavango</folder_id>
-			<modification_id>1.5 AMT (177 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2025</year>
-			<price>3908990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>373000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>373000</max_discount>
-			<currency>RUR</currency>
-			<vin>L6TVX1S68SY703974</vin>
-			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
-
-Официальный дилер GEELY - Партнер-Авто Оренбург
-Мы сделаем Вам самые лучшие условия на покупку нового автомобиля GEELY OKAVANGO Flaghip
-
-Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/1
-
-ГАРАНТИЯ
-⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-* Подробности в отделе продаж.
-
-Если новый Джили, то в Джили Партнер Оренбург на Загородном шоссе 13/1.
-
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-
-Geely , Жили , Джили , Купить Geely в Оренбурге , Купить Жили в Оренбурге, Купить Джили в Оренбурге, Cityray , Atlas , Okavango , Monjaro , Preface , Ситирей , Ситирэй, Атлас , Окаванго , Окаванга , Окованго , Окованга , Акаванго , Акаванга , Акованго , Акованга , Монджаро , Монжаро, Манджаро , Манжаро , Прифейс , Префейс , Прифейц , Префейц , Прифэйс , Префэйс , Прифэйц , Префэйц</description>
-			<images>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/c0f368bef3f750f91247d1abfeec3418.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/6853d54345c15805413a1ad638503b7c.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/9af52556ae4aaa4ab65561f950b3fd8e.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/28b54dac84a2f364975cf1dfde7ea8c6.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/e591458e638d1499652b50eaafdbead9.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/bbffabe91f5b7ca6ada48c5a1bd60262.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/79e8386e754b0e424173c68180941e82.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/f7166eaabcffa0d9818ae2893dadf487.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/27a748d982cb4c5b439a89c801197495.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/b4a4763c3de1558a8c2eeea8015e89ff.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/8327ae5b9750323be8c2372a1ea9bf17.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/605ae6275581d6e720e66dd0a757664f.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/fcf070b7f81f7f751036d376d48200c3.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/d2de7627b882d49ee1eb0102bbec4e6d.jpeg</image>
-				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/df5cdd3bd1087835804867a5aee0a370.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-okavango-15-amt-177-лс-flagship-синий-2025/</url></car>
-		<car>
 			<unique_id>a5065cbbc5ad06d904bf1d87543b34a2</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Okavango</folder_id>
@@ -1139,6 +1064,81 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 				<image>https://photo.toyotasever.ru/L6TVX1S65SY701938/d6a8a3de9ee1a41e4e434e9e534f4d40.jpeg</image>
 				<image>https://photo.toyotasever.ru/L6TVX1S65SY701938/467ec33611af1118117e8fd0c3a2895a.jpeg</image>
 				<image>https://photo.toyotasever.ru/L6TVX1S65SY701938/f78644dece8da40e69085de5fa6ec547.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-okavango-15-amt-177-лс-flagship-синий-2025/</url></car>
+		<car>
+			<unique_id>2a4200d9254935195a8b415458720cd9</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Okavango</folder_id>
+			<modification_id>1.5 AMT (177 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2025</year>
+			<price>3908990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>373000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>373000</max_discount>
+			<currency>RUR</currency>
+			<vin>L6TVX1S68SY703974</vin>
+			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
+
+Официальный дилер GEELY - Партнер-Авто Оренбург
+Мы сделаем Вам самые лучшие условия на покупку нового автомобиля GEELY OKAVANGO Flaghip
+
+Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/1
+
+ГАРАНТИЯ
+⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+* Подробности в отделе продаж.
+
+Если новый Джили, то в Джили Партнер Оренбург на Загородном шоссе 13/1.
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+
+Geely , Жили , Джили , Купить Geely в Оренбурге , Купить Жили в Оренбурге, Купить Джили в Оренбурге, Cityray , Atlas , Okavango , Monjaro , Preface , Ситирей , Ситирэй, Атлас , Окаванго , Окаванга , Окованго , Окованга , Акаванго , Акаванга , Акованго , Акованга , Монджаро , Монжаро, Манджаро , Манжаро , Прифейс , Префейс , Прифейц , Префейц , Прифэйс , Префэйс , Прифэйц , Префэйц</description>
+			<images>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/c0f368bef3f750f91247d1abfeec3418.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/6853d54345c15805413a1ad638503b7c.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/9af52556ae4aaa4ab65561f950b3fd8e.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/28b54dac84a2f364975cf1dfde7ea8c6.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/e591458e638d1499652b50eaafdbead9.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/bbffabe91f5b7ca6ada48c5a1bd60262.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/79e8386e754b0e424173c68180941e82.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/f7166eaabcffa0d9818ae2893dadf487.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/27a748d982cb4c5b439a89c801197495.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/b4a4763c3de1558a8c2eeea8015e89ff.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/8327ae5b9750323be8c2372a1ea9bf17.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/605ae6275581d6e720e66dd0a757664f.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/fcf070b7f81f7f751036d376d48200c3.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/d2de7627b882d49ee1eb0102bbec4e6d.jpeg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68SY703974/df5cdd3bd1087835804867a5aee0a370.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -1399,77 +1399,6 @@ Knewstar , Ньюстар , Кньюстар , Официальный сайт ,
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>7ce34074d63a5aac333042216f6a158c</unique_id>
-			<mark_id>KNEWSTAR</mark_id>
-			<folder_id>001</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>4569990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>1050000</max_discount>
-			<currency>RUR</currency>
-			<vin>LHA022GD8SB001998</vin>
-			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ KNEWSTAR 001❗❗❗❗
-Официальный дилер KNEWSTAR - Партнер-Авто Оренбург
-Мы сделаем Вам самые лучшие условия на покупку нового автомобиля CHERY
-
- Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/1
-
-ГАРАНТИЯ
-⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-
-* Подробности в отделе продаж.
-
-Если новый KNEWSTAR, то в KNEWSTAR Партнер Оренбург на Загородном шоссе 13/1.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля Knewstar.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
-
-
-
-Knewstar , Ньюстар , Кньюстар , Официальный сайт , Купить Knewstar в Оренбурге, Купить Ньюстар в Оренбурге, Купить Кньюстар в Оренбурге, 001</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/3610be3cad61da971ed55ed25e785396.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/c5b26929d7fa57f28cac96e6f182cb0f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/54b68fff1863d330da0810ffd15fa1af.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/7b46a65302d10635f4b4ad2e27290741.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/2f1d8cadaca772c4979126c86ca26a5f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/354f167cb47665b73ec19c14cd0ea743.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/fe1b057556fae1752a1467d2ab67c5bd.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/e9a185bea51a53ce16e3b94e0bb517f6.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/e12f1fe11ea44c937fe8cf5db687fcd1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/4ce879a5abc25e15e3eb8682ff68b107.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/d4462693207d7ed7528627eb65ed625c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/5ed8601072c04198315ead4cd6ca1662.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/fc53d5e62aa50db3b2634b29706b4584.jpeg</image>
-				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/a475387e94ba3bbc3e8780b23aa9a538.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>bf6cc3d33f1cf9fe5ccb7bc44781d98c</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
@@ -1535,6 +1464,77 @@ Knewstar , Ньюстар , Кньюстар , Официальный сайт ,
 				<image>https://photo.toyotasever.ru/LHA022GD4RB005203/72a26e3a30ef6487cbe34b852a4b2c0e.jpeg</image>
 				<image>https://photo.toyotasever.ru/LHA022GD4RB005203/0adc201918e65cfeb128a7fdda5c062b.jpeg</image>
 				<image>https://photo.toyotasever.ru/LHA022GD4RB005203/33db3d35fcc1fa59d3adf6eb687ccf2c.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
+		<car>
+			<unique_id>7ce34074d63a5aac333042216f6a158c</unique_id>
+			<mark_id>KNEWSTAR</mark_id>
+			<folder_id>001</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>4569990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>300000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>1050000</max_discount>
+			<currency>RUR</currency>
+			<vin>LHA022GD8SB001998</vin>
+			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ KNEWSTAR 001❗❗❗❗
+Официальный дилер KNEWSTAR - Партнер-Авто Оренбург
+Мы сделаем Вам самые лучшие условия на покупку нового автомобиля CHERY
+
+ Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/1
+
+ГАРАНТИЯ
+⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+
+* Подробности в отделе продаж.
+
+Если новый KNEWSTAR, то в KNEWSTAR Партнер Оренбург на Загородном шоссе 13/1.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля Knewstar.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.
+
+
+
+Knewstar , Ньюстар , Кньюстар , Официальный сайт , Купить Knewstar в Оренбурге, Купить Ньюстар в Оренбурге, Купить Кньюстар в Оренбурге, 001</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/3610be3cad61da971ed55ed25e785396.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/c5b26929d7fa57f28cac96e6f182cb0f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/54b68fff1863d330da0810ffd15fa1af.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/7b46a65302d10635f4b4ad2e27290741.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/2f1d8cadaca772c4979126c86ca26a5f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/354f167cb47665b73ec19c14cd0ea743.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/fe1b057556fae1752a1467d2ab67c5bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/e9a185bea51a53ce16e3b94e0bb517f6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/e12f1fe11ea44c937fe8cf5db687fcd1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/4ce879a5abc25e15e3eb8682ff68b107.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/d4462693207d7ed7528627eb65ed625c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/5ed8601072c04198315ead4cd6ca1662.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/fc53d5e62aa50db3b2634b29706b4584.jpeg</image>
+				<image>https://photo.toyotasever.ru/LHA022GD8SB001998/a475387e94ba3bbc3e8780b23aa9a538.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
