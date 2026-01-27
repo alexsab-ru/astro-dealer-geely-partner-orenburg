@@ -8,8 +8,8 @@
   {
     "brand": "Belgee",
     "model": "X50",
-    "price": 2275990,
-    "benefit": 415000
+    "price": 1999990,
+    "benefit": 480000
   },
   {
     "brand": "Geely",
@@ -28,12 +28,6 @@
     "model": "OKAVANGO",
     "price": 3285990,
     "benefit": 623000
-  },
-  {
-    "brand": "Geely",
-    "model": "Preface",
-    "price": 2864190,
-    "benefit": 703000
   },
   {
     "brand": "Knewstar",
