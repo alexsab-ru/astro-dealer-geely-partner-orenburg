@@ -47,7 +47,18 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8824Z8TB200443/b099ca81793968d41bb9fadfe339eac4.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8824Z8TB200443/0bd986e011eb5f8583c125a6bd58206a.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8824Z8TB200443/6480e165122d1baf3cbf982294565e93.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8824Z8TB200443/60f6cff158f4c44f638447b8fc17ad43.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8824Z8TB200443/17882be1f4d1ae31a72018ff20977b87.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8824Z8TB200443/e04a2c8373ae868014fa4c996b8856e1.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8824Z8TB200443/fe76d6b9301cb1e66a27dec726c84b2a.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8824Z8TB200443/5cd3c1c6fda602d6e8cc5488e619c2fc.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8824Z8TB200443/4aac715672387b85c4c22230f80641d8.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8824Z8TB200443/64d7f648b9ab503fb398f0683ff1d75c.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -131,7 +142,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2025</year>
 			<price>2129990</price>
 			<credit_discount>0</credit_discount>
@@ -194,7 +205,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2025</year>
 			<price>2479990</price>
 			<credit_discount>0</credit_discount>
@@ -267,7 +278,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2025</year>
 			<price>2690990</price>
 			<credit_discount>0</credit_discount>
@@ -400,7 +411,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2025</year>
 			<price>2690990</price>
 			<credit_discount>0</credit_discount>
@@ -469,7 +480,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2025</year>
 			<price>2690990</price>
 			<credit_discount>0</credit_discount>
@@ -504,7 +515,22 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/1061eda98a9f3ff979f17b04a8f8fac3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/074272175d40f65c81f5eb4b74f3983f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/66af4655606b71e23bcf18dc6df59f53.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/41a046d54ed85cf91cbfba81f87d5239.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/cb90fbb16072a100c37300bb7527f155.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/e7cddeeec3337045cbef0a29346ae532.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/6928866fe668cd8f8de1317b5cf258f9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/871d899059abe167b9609e146a8c7f03.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/7455ffa5285ae19c91ead836b5f65e1f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/485344366e3015767517f547645f8574.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/e4f9b35a897675e5b2e0377ac2442be8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/8dff4ca44ba0c600c97947bbdabc44cf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/5fb6c5c55aec4f66aadc5b1acf99fa1d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/8bad81e66ca0f6fbf0379f4004cab093.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -573,7 +599,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2026</year>
 			<price>2690990</price>
 			<credit_discount>0</credit_discount>
@@ -608,7 +634,20 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907145/d00030d04091019d2782e39e1b743e8b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907145/02e06be3c00f608f0cc50fdd4a409f11.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907145/b5e3d90fc0f52fe997ec3a7a87184b88.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907145/ee2164b29e99d7fdaac5530dcaa1a128.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907145/98167b0dbce4ed528c50f2f009fd3b11.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907145/2478cbdc4f1f06516ae0ab119706c1e3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907145/0b2c657e2be352087df83799b354f0a0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907145/925fa36a43c2d6b4eb88cb8b1f0782c4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907145/ecfc9efbab6a92386f7d119ea0ca5139.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907145/e031ac2f17a2f261e2527b1eaad1b389.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907145/2bf16dec68bb33278904c4c44b08ae97.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907145/d6bae45178f006210bdbbec811dfffc8.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -625,7 +664,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>5</run>
 			<year>2026</year>
 			<price>2690990</price>
 			<credit_discount>0</credit_discount>
@@ -660,7 +699,21 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907047/8c5bddb3d932f5dd83edd76f47b29576.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907047/50bedc4f8f97fe39283b18e5f524bd73.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907047/637636f7efadac24148fbb01c7750ea9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907047/1007bb117c89092fa216a300c5c91533.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907047/4df81e2740e5480b9d3eeaaa90385d88.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907047/f48d3977f66de924cc8d34e6af5509ab.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907047/3fd43a29380561060eae7a832998ab9f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907047/f5f2c2dfe20b48b52236ea94e7ae3f4d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907047/4de2e490ded05bab818100a0fc06b0d5.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907047/fd841736d7ac9e0002f8d9416dd1c43c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907047/3bddff47216e246eaf38e8c90d74f366.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907047/eb3dacb204e1ef9a09a79413674aebd1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907047/6aa42499c42a1837afcd4e3f9ff23d99.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -677,7 +730,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>5</run>
 			<year>2026</year>
 			<price>2690990</price>
 			<credit_discount>0</credit_discount>
