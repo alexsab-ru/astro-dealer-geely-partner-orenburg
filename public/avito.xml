@@ -426,72 +426,6 @@
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-2025/</url></car>
 		<car>
-			<unique_id>1ffb96aabcb5d235ed4d7f77bcc6f3fe</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2026</year>
-			<price>2690990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>140000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>265000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6TB907100</vin>
-			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50,  в комплектации Prestige
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Если новый Belgee, то в Belgee Партнер Оренбург на Загородном шоссе 13/1.
-
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/0ff5be3946198008686269f891047af0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/45889329aa5a7409a0a303ddf8e4efb4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/83155a214b88217236b97453f93873ad.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/eda40ca9a71428856cca06b0b635e504.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/333432c7c17a22744af29cb1c6ca903e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/a9a318d878b800d0243c9bacf8b7755c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/1fda51ff7dfb81be492213a4455f8f08.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/98dfca881990aced877851e72fc29f6c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/f1c4ee562d87dc66bad232269e8d6fc5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/a1ac7916b4891449681c164b625e3ad1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/9113a03eb39ff0ae688e4a2ff9a92623.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/4d08eb2bad95cb72ec1e1d8506c0825c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/7835db8f5792617154e3dbaaed1ac116.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-2026/</url></car>
-		<car>
 			<unique_id>cd91d365d397490352b8b380bfa0acd7</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X50</folder_id>
@@ -552,6 +486,72 @@
 				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907114/557cedf617a6378d090e809805624e9b.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907114/198d1fbf40ddc28df619903918b8688f.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907114/f128888d253372396bf497929bf49e7e.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-2026/</url></car>
+		<car>
+			<unique_id>1ffb96aabcb5d235ed4d7f77bcc6f3fe</unique_id>
+			<mark_id>Belgee</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2026</year>
+			<price>2690990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>140000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>265000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z6TB907100</vin>
+			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
+
+В наличии новый Belgee X50,  в комплектации Prestige
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Если новый Belgee, то в Belgee Партнер Оренбург на Загородном шоссе 13/1.
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/0ff5be3946198008686269f891047af0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/45889329aa5a7409a0a303ddf8e4efb4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/83155a214b88217236b97453f93873ad.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/eda40ca9a71428856cca06b0b635e504.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/333432c7c17a22744af29cb1c6ca903e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/a9a318d878b800d0243c9bacf8b7755c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/1fda51ff7dfb81be492213a4455f8f08.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/98dfca881990aced877851e72fc29f6c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/f1c4ee562d87dc66bad232269e8d6fc5.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/a1ac7916b4891449681c164b625e3ad1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/9113a03eb39ff0ae688e4a2ff9a92623.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/4d08eb2bad95cb72ec1e1d8506c0825c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6TB907100/7835db8f5792617154e3dbaaed1ac116.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -677,6 +677,58 @@
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-2026/</url></car>
 		<car>
+			<unique_id>642ed780bd01ec9bbc167dd41b3b83b6</unique_id>
+			<mark_id>Belgee</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2025</year>
+			<price>2690990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>140000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>265000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z6TB905234</vin>
+			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
+
+В наличии новый Belgee X50,  в комплектации Prestige
+
+✅ PACCPОЧКA от 0,01%
+
+✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+
+✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+
+✅ ГAРАHTИЯ 5 ЛEТ
+
+* Подробности в отделе продаж.
+
+Если новый Belgee, то в Belgee Партнер Оренбург на Загородном шоссе 13/1.
+
+Цена указана с учётом максимальной выгоды.
+
+Так же доступны автомобили в других комплектациях и цветах.
+
+В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
+
+Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-2025/</url></car>
+		<car>
 			<unique_id>2036188467791f1d5297a4146d39725c</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X50</folder_id>
@@ -739,58 +791,6 @@
 				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/5fb6c5c55aec4f66aadc5b1acf99fa1d.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z4TB905233/8bad81e66ca0f6fbf0379f4004cab093.jpeg</image>
 			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-2025/</url></car>
-		<car>
-			<unique_id>642ed780bd01ec9bbc167dd41b3b83b6</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2025</year>
-			<price>2690990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>140000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>265000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6TB905234</vin>
-			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X50,  в комплектации Prestige
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Если новый Belgee, то в Belgee Партнер Оренбург на Загородном шоссе 13/1.
-
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
