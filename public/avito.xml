@@ -1446,7 +1446,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>6</run>
 			<year>2025</year>
 			<price>4080990</price>
 			<credit_discount>0</credit_discount>
@@ -1627,7 +1627,7 @@ Geely Atlas II оснащён современными технологиями,
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>160000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>560990</max_discount>
+			<max_discount>160000</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S12SB182380</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
@@ -1700,7 +1700,7 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>160000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>560990</max_discount>
+			<max_discount>910990</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3FX1S14SB125582</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
@@ -1876,7 +1876,20 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Flаgshiр.
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3G43S91SX705874/0c4094988f2cf858669368bd12ce2dd3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S91SX705874/db8b6fffc8df5b22e22c9542d00b9e9a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S91SX705874/83582529b3501770218abff93e939b5a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S91SX705874/7081806acd20bcb4501a9c12542f7a94.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S91SX705874/470c850e160efcc43fb744e713b59807.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S91SX705874/74a8c104ac7fbeea19c36a15723439b4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S91SX705874/4dbd4e6f40f6f608053739ea368744bd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S91SX705874/c5cfb9194f1c501626b5f1b7c3b2b917.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S91SX705874/c8f6d3feaf4f1837a8f3e309eb00cb9a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S91SX705874/607bbbf8f92e3718ac1f6cde3827f482.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S91SX705874/36e4208415903527852fd29c661b4a29.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S91SX705874/8b91a45a1bce54aa113d82588205bbb5.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -2113,7 +2126,7 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Flаgshiр Sport.
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>190000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>444990</max_discount>
+			<max_discount>594990</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3G43S9XSX703430</vin>
 			<description>ПAРTHEP АВТО - oфициальный дилер GЕELY в гоpодe Opенбуpге.
@@ -2145,7 +2158,19 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Luxury.
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3G43S9XSX703430/66ad1a692754f843e5b92afb64b5d55b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XSX703430/05c57013bf56ec08280bf62d0b16ec3e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XSX703430/60321e45ef74ec87c52cb86570f87327.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XSX703430/c06fba38b7b204e2f1b0a88e6ad666b9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XSX703430/036194682345eb6c88dcc4fe152e75eb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XSX703430/dcb62d4c692f447a71b5cb52448690c6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XSX703430/7cbaf38c041e29af8a49387f91cdd951.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XSX703430/1cf70f15ff2426551be5c943c29e15d6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XSX703430/9d8fe22eb5dd6fac5756934e89950502.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XSX703430/56782e96872c02617545de6fde2eaaf9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LB3G43S9XSX703430/b0b9b8bf0fcf5ca534e2d25b2bbae9f7.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -2365,11 +2390,11 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			<run>12</run>
 			<year>2025</year>
 			<price>3908990</price>
-			<credit_discount>285990</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>373000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>908990</max_discount>
+			<max_discount>1108990</max_discount>
 			<currency>RUR</currency>
 			<vin>L6TVX1S65SY701938</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
@@ -2525,9 +2550,9 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			<price>3908990</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>373000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
+			<max_discount>373000</max_discount>
 			<currency>RUR</currency>
 			<vin>L6TVX1S68SY703084</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
