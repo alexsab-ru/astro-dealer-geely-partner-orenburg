@@ -8,14 +8,20 @@
   {
     "brand": "Belgee",
     "model": "X70",
-    "price": 2052990,
-    "benefit": 527000
+    "price": 1972990,
+    "benefit": 607000
   },
   {
     "brand": "Geely",
     "model": "Atlas",
     "price": 3253800,
     "benefit": 717190
+  },
+  {
+    "brand": "Geely",
+    "model": "Cityray",
+    "price": 2904990,
+    "benefit": 310000
   },
   {
     "brand": "Geely",
