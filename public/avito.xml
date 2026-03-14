@@ -1,34 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>2f94627887b20512568e15c33e8585cb</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>S50</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Престиж</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>11</run>
-			<year>2026</year>
-			<price>2309990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>120000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>120000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8824Z1TB201630</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-s50-15-at-122-лс-престиж-серый-2026/</url></car>
-		<car>
 			<unique_id>61ff561f36eb1f654ab5b78340d440e6</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
