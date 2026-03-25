@@ -1,6 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
+			<unique_id>48e93e6149f4f4b9f441c028b4e39384</unique_id>
+			<mark_id>Belgee</mark_id>
+			<folder_id>S50</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Престиж</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2026</year>
+			<price>2309990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>120000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>459990</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8824Z7TB203379</vin>
+			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
+
+Официальный дилер BELGEE - Партнер-Авто Оренбург
+Мы сделаем Вам самые лучшие условия на покупку нового автомобиля BELGEE S50 Престиж
+
+ Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/2
+
+ГАРАНТИЯ
+⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+Цена 1’850 т.р. в договоре получается только при покупке нового автомобиля в Кредит или Рассрочку и только при обмене любого вашего автомобиля.
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
+
+ПВ – первоначальный взнос, ЕП – ежемесячный платеж
+
+На 7 лет:
+ПВ = 0 т.р. ЕП = 46,4 т.р. ставка 15,9 %
+ПВ = 185 т.р. ЕП = 42,3 т.р. ставка 15,6 %
+ПВ = 370 т.р. ЕП = 34,1 т.р. ставка 11,3 %
+ПВ = 555 т.р. ЕП = 29,6 т.р. ставка 9,9 %
+ПВ = 740 т.р. ЕП = 25,4 т.р. ставка 8,5 %
+ПВ = 925 т.р. ЕП = 21,4 т.р. ставка 7,0 %
+ПВ = 1’110 т.р. ЕП = 16,8 т.р. ставка 4,0 %
+ПВ = 1’295 т.р. ЕП = 12,5 т.р. ставка 0,01 %
+
+На 5 лет:
+ПВ = 0 т.р. ЕП = 55,5 т.р. ставка 14,8 %
+ПВ = 185 т.р. ЕП = 50,4 т.р. ставка 14,2 %
+ПВ = 370 т.р. ЕП = 41,3 т.р. ставка 9,4 %
+ПВ = 555 т.р. ЕП = 36,1 т.р. ставка 7,9 %
+ПВ = 740 т.р. ЕП = 31,2 т.р. ставка 6,3 %
+ПВ = 925 т.р. ЕП = 26,4 т.р. ставка 4,5 %
+ПВ = 1’110 т.р. ЕП = 20,8 т.р. ставка 0,5 %
+ПВ = 1’295 т.р. ЕП = 17,5 т.р. ставка 0,01 %
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+В эти расчеты ежемесячных платежей включены следующие дополнительные опции и аксессуары:
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- антикоррозионная обработка
+- брызговики
+- сигнализация с модулем (управление функциями сигнализации с телефона)
+- зимняя резина (шип или нешип)
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 425 т.р.
+При оплате наличными цена нового автомобиля составит 2’425 т.р., при этом выше перечисленное дополнительное оборудование* включено в эту цену!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-s50-15-at-122-лс-престиж-серый-2026/</url></car>
+		<car>
 			<unique_id>62477893784732acf6b5b596526aea5d</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>S50</folder_id>
@@ -233,6 +317,208 @@ Belgee , Белджи , Белжи , Купить Belgee в Оренбурге ,
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-plus-15-amt-147-лс-актив-белый-2026/</url></car>
 		<car>
+			<unique_id>ce64eac826d24ce7cea6d065550d2001</unique_id>
+			<mark_id>Belgee</mark_id>
+			<folder_id>X50+</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Престиж</complectation_name>
+			<body_type>Внедорожник</body_type>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2026</year>
+			<price>2675990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>525990</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z5TB913339</vin>
+			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
+
+Официальный дилер BELGEE - Партнер-Авто Оренбург
+Мы сделаем Вам самые лучшие условия на покупку нового автомобиля BELGEE X50+ Престиж
+
+ Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/2
+
+ГАРАНТИЯ
+⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+Цена 2’150 т.р. в договоре получается только при покупке нового автомобиля в Кредит или Рассрочку и только при обмене любого вашего автомобиля.
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
+
+ПВ – первоначальный взнос, ЕП – ежемесячный платеж
+
+На 7 лет:
+ПВ = 0 т.р. ЕП = 53,7 т.р. ставка 16,0 %
+ПВ = 215 т.р. ЕП = 48,7 т.р. ставка 15,5 %
+ПВ = 430 т.р. ЕП = 39,3 т.р. ставка 11,3 %
+ПВ = 645 т.р. ЕП = 34,0 т.р. ставка 9,9 %
+ПВ = 860 т.р. ЕП = 29,2 т.р. ставка 8,5 %
+ПВ = 1’075 т.р. ЕП = 24,5 т.р. ставка 7,0 %
+ПВ = 1’290 т.р. ЕП = 19,9 т.р. ставка 5,0 %
+ПВ = 1’505 т.р. ЕП = 14,7 т.р. ставка 1,0 %
+
+На 5 лет:
+ПВ = 0 т.р. ЕП = 64,3 т.р. ставка 15,0 %
+ПВ = 215 т.р. ЕП = 58,5 т.р. ставка 14,5 %
+ПВ = 430 т.р. ЕП = 47,6 т.р. ставка 9,4 %
+ПВ = 645 т.р. ЕП = 41,6 т.р. ставка 7,9 %
+ПВ = 860 т.р. ЕП = 35,8 т.р. ставка 6,3 %
+ПВ = 1'075 т.р. ЕП = 30,2 т.р. ставка 4,5 %
+ПВ = 1’290 т.р. ЕП = 24,8 т.р. ставка 2,1 %
+ПВ = 1’505 т.р. ЕП = 19,9 т.р. ставка 0,01 %
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+В эти расчеты ежемесячных платежей включены следующие дополнительные опции и аксессуары:
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- антикоррозионная обработка
+- брызговики
+- сигнализация с модулем (управление функциями сигнализации с телефона)
+- зимняя резина (шип или нешип)
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 500 т.р.
+При оплате наличными цена нового автомобиля составит 2’800 т.р., при этом выше перечисленное дополнительное оборудование* включено в эту цену!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/5b99643bd806f2d0ec57a0835e3164e9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/50b40cf27e7e8999f843fc622162d863.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/38b61e60117ab84dd3fce29cbb9ba9f4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/df340765136e57fd35ab40c4b94db7cd.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/f88125e1d0a514b5758eea85edc67c27.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/13909cf9fa9de0dee027f79863a83b0f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/1d15e03ae3dda6415fc8ea5ff7357395.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/3b44ffd79f715681826cf3a9b563a492.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/607f466443b77b681972049ec85663b6.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/13192e3c7cdf09bb65dc660f0ffa0f6c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/6708046d19ebd16e9675bfc074645d63.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/bd7b31cf8c03beee7e0fc0fe1d225003.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/4a11fa509f31f00b1c66a8de566575a7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/eb6a487e34b8f2f789622d6c22f50174.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/588a1756d93191635d8e5954ccc935d1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/5537c67be3bfe80ab54720ee8c6d75ee.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/243660fed6a195901b67d91ee787891a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/2c2458a914d7bc26d2baf92287c1280e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/1824b37f73865c52d9e7940a63d7822d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/098c782e152555c5831b9739ebe2b168.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/9a1c0b2c5b00ed4de99f8dc267a84c72.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/fc03b97876c7432669c24e144c667ea3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/4c734314e43b329f14d1cfafa2be43d7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/811daf4cb90c8ccdda64c59556923103.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/f42c2d5a0f91d261ce3e101817b911f3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/9020993135eecf87d1a3963a2ca6c79f.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/285a387d7d48516cb3ff0541c664d47b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/3e1c11d0774a64c3f757acc4e3d85bee.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/95a98c94d02ae4f023909ba3722edd14.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/6f5765754b2634d7820429f589e69c07.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/c68c2588b9be25cb13ecd31fbd84e01b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/38eef308b2d7eee8729201e0e28e91eb.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/4edaea7bd3261d7c87cd1774a188b911.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-plus-15-amt-147-лс-престиж-красный-2026/</url></car>
+		<car>
+			<unique_id>e060c91fb2d8b33610c87e28803e1a5d</unique_id>
+			<mark_id>Belgee</mark_id>
+			<folder_id>X50+</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Престиж</complectation_name>
+			<body_type>Внедорожник</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2026</year>
+			<price>2675990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>525990</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z5TB913308</vin>
+			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
+
+Официальный дилер BELGEE - Партнер-Авто Оренбург
+Мы сделаем Вам самые лучшие условия на покупку нового автомобиля BELGEE X50+ Престиж
+
+ Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/2
+
+ГАРАНТИЯ
+⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+Цена 2’150 т.р. в договоре получается только при покупке нового автомобиля в Кредит или Рассрочку и только при обмене любого вашего автомобиля.
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
+
+ПВ – первоначальный взнос, ЕП – ежемесячный платеж
+
+На 7 лет:
+ПВ = 0 т.р. ЕП = 53,7 т.р. ставка 16,0 %
+ПВ = 215 т.р. ЕП = 48,7 т.р. ставка 15,5 %
+ПВ = 430 т.р. ЕП = 39,3 т.р. ставка 11,3 %
+ПВ = 645 т.р. ЕП = 34,0 т.р. ставка 9,9 %
+ПВ = 860 т.р. ЕП = 29,2 т.р. ставка 8,5 %
+ПВ = 1’075 т.р. ЕП = 24,5 т.р. ставка 7,0 %
+ПВ = 1’290 т.р. ЕП = 19,9 т.р. ставка 5,0 %
+ПВ = 1’505 т.р. ЕП = 14,7 т.р. ставка 1,0 %
+
+На 5 лет:
+ПВ = 0 т.р. ЕП = 64,3 т.р. ставка 15,0 %
+ПВ = 215 т.р. ЕП = 58,5 т.р. ставка 14,5 %
+ПВ = 430 т.р. ЕП = 47,6 т.р. ставка 9,4 %
+ПВ = 645 т.р. ЕП = 41,6 т.р. ставка 7,9 %
+ПВ = 860 т.р. ЕП = 35,8 т.р. ставка 6,3 %
+ПВ = 1'075 т.р. ЕП = 30,2 т.р. ставка 4,5 %
+ПВ = 1’290 т.р. ЕП = 24,8 т.р. ставка 2,1 %
+ПВ = 1’505 т.р. ЕП = 19,9 т.р. ставка 0,01 %
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+В эти расчеты ежемесячных платежей включены следующие дополнительные опции и аксессуары:
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- антикоррозионная обработка
+- брызговики
+- сигнализация с модулем (управление функциями сигнализации с телефона)
+- зимняя резина (шип или нешип)
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 500 т.р.
+При оплате наличными цена нового автомобиля составит 2’800 т.р., при этом выше перечисленное дополнительное оборудование* включено в эту цену!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-plus-15-amt-147-лс-престиж-серебристый-2026/</url></car>
+		<car>
 			<unique_id>9d70bc0d852bac80c3c6b764e674ac95</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X50+</folder_id>
@@ -352,208 +638,6 @@ Belgee , Белджи , Белжи , Купить Belgee в Оренбурге ,
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-plus-15-amt-147-лс-престиж-серый-2026/</url></car>
 		<car>
-			<unique_id>e060c91fb2d8b33610c87e28803e1a5d</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>X50+</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Престиж</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2026</year>
-			<price>2675990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>525990</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z5TB913308</vin>
-			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
-
-Официальный дилер BELGEE - Партнер-Авто Оренбург
-Мы сделаем Вам самые лучшие условия на покупку нового автомобиля BELGEE X50+ Престиж
-
- Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/2
-
-ГАРАНТИЯ
-⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-Цена 2’150 т.р. в договоре получается только при покупке нового автомобиля в Кредит или Рассрочку и только при обмене любого вашего автомобиля.
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
-
-ПВ – первоначальный взнос, ЕП – ежемесячный платеж
-
-На 7 лет:
-ПВ = 0 т.р. ЕП = 53,7 т.р. ставка 16,0 %
-ПВ = 215 т.р. ЕП = 48,7 т.р. ставка 15,5 %
-ПВ = 430 т.р. ЕП = 39,3 т.р. ставка 11,3 %
-ПВ = 645 т.р. ЕП = 34,0 т.р. ставка 9,9 %
-ПВ = 860 т.р. ЕП = 29,2 т.р. ставка 8,5 %
-ПВ = 1’075 т.р. ЕП = 24,5 т.р. ставка 7,0 %
-ПВ = 1’290 т.р. ЕП = 19,9 т.р. ставка 5,0 %
-ПВ = 1’505 т.р. ЕП = 14,7 т.р. ставка 1,0 %
-
-На 5 лет:
-ПВ = 0 т.р. ЕП = 64,3 т.р. ставка 15,0 %
-ПВ = 215 т.р. ЕП = 58,5 т.р. ставка 14,5 %
-ПВ = 430 т.р. ЕП = 47,6 т.р. ставка 9,4 %
-ПВ = 645 т.р. ЕП = 41,6 т.р. ставка 7,9 %
-ПВ = 860 т.р. ЕП = 35,8 т.р. ставка 6,3 %
-ПВ = 1'075 т.р. ЕП = 30,2 т.р. ставка 4,5 %
-ПВ = 1’290 т.р. ЕП = 24,8 т.р. ставка 2,1 %
-ПВ = 1’505 т.р. ЕП = 19,9 т.р. ставка 0,01 %
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-В эти расчеты ежемесячных платежей включены следующие дополнительные опции и аксессуары:
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- антикоррозионная обработка
-- брызговики
-- сигнализация с модулем (управление функциями сигнализации с телефона)
-- зимняя резина (шип или нешип)
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 500 т.р.
-При оплате наличными цена нового автомобиля составит 2’800 т.р., при этом выше перечисленное дополнительное оборудование* включено в эту цену!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-plus-15-amt-147-лс-престиж-серебристый-2026/</url></car>
-		<car>
-			<unique_id>ce64eac826d24ce7cea6d065550d2001</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>X50+</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Престиж</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2026</year>
-			<price>2675990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>525990</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z5TB913339</vin>
-			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
-
-Официальный дилер BELGEE - Партнер-Авто Оренбург
-Мы сделаем Вам самые лучшие условия на покупку нового автомобиля BELGEE X50+ Престиж
-
- Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/2
-
-ГАРАНТИЯ
-⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-Цена 2’150 т.р. в договоре получается только при покупке нового автомобиля в Кредит или Рассрочку и только при обмене любого вашего автомобиля.
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
-
-ПВ – первоначальный взнос, ЕП – ежемесячный платеж
-
-На 7 лет:
-ПВ = 0 т.р. ЕП = 53,7 т.р. ставка 16,0 %
-ПВ = 215 т.р. ЕП = 48,7 т.р. ставка 15,5 %
-ПВ = 430 т.р. ЕП = 39,3 т.р. ставка 11,3 %
-ПВ = 645 т.р. ЕП = 34,0 т.р. ставка 9,9 %
-ПВ = 860 т.р. ЕП = 29,2 т.р. ставка 8,5 %
-ПВ = 1’075 т.р. ЕП = 24,5 т.р. ставка 7,0 %
-ПВ = 1’290 т.р. ЕП = 19,9 т.р. ставка 5,0 %
-ПВ = 1’505 т.р. ЕП = 14,7 т.р. ставка 1,0 %
-
-На 5 лет:
-ПВ = 0 т.р. ЕП = 64,3 т.р. ставка 15,0 %
-ПВ = 215 т.р. ЕП = 58,5 т.р. ставка 14,5 %
-ПВ = 430 т.р. ЕП = 47,6 т.р. ставка 9,4 %
-ПВ = 645 т.р. ЕП = 41,6 т.р. ставка 7,9 %
-ПВ = 860 т.р. ЕП = 35,8 т.р. ставка 6,3 %
-ПВ = 1'075 т.р. ЕП = 30,2 т.р. ставка 4,5 %
-ПВ = 1’290 т.р. ЕП = 24,8 т.р. ставка 2,1 %
-ПВ = 1’505 т.р. ЕП = 19,9 т.р. ставка 0,01 %
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-В эти расчеты ежемесячных платежей включены следующие дополнительные опции и аксессуары:
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- антикоррозионная обработка
-- брызговики
-- сигнализация с модулем (управление функциями сигнализации с телефона)
-- зимняя резина (шип или нешип)
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 150 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 500 т.р.
-При оплате наличными цена нового автомобиля составит 2’800 т.р., при этом выше перечисленное дополнительное оборудование* включено в эту цену!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/5b99643bd806f2d0ec57a0835e3164e9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/50b40cf27e7e8999f843fc622162d863.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/38b61e60117ab84dd3fce29cbb9ba9f4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/df340765136e57fd35ab40c4b94db7cd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/f88125e1d0a514b5758eea85edc67c27.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/13909cf9fa9de0dee027f79863a83b0f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/1d15e03ae3dda6415fc8ea5ff7357395.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/3b44ffd79f715681826cf3a9b563a492.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/607f466443b77b681972049ec85663b6.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/13192e3c7cdf09bb65dc660f0ffa0f6c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/6708046d19ebd16e9675bfc074645d63.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/bd7b31cf8c03beee7e0fc0fe1d225003.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/4a11fa509f31f00b1c66a8de566575a7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/eb6a487e34b8f2f789622d6c22f50174.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/588a1756d93191635d8e5954ccc935d1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/5537c67be3bfe80ab54720ee8c6d75ee.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/243660fed6a195901b67d91ee787891a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/2c2458a914d7bc26d2baf92287c1280e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/1824b37f73865c52d9e7940a63d7822d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/098c782e152555c5831b9739ebe2b168.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/9a1c0b2c5b00ed4de99f8dc267a84c72.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/fc03b97876c7432669c24e144c667ea3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/4c734314e43b329f14d1cfafa2be43d7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/811daf4cb90c8ccdda64c59556923103.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/f42c2d5a0f91d261ce3e101817b911f3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/9020993135eecf87d1a3963a2ca6c79f.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/285a387d7d48516cb3ff0541c664d47b.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/3e1c11d0774a64c3f757acc4e3d85bee.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/95a98c94d02ae4f023909ba3722edd14.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/6f5765754b2634d7820429f589e69c07.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/c68c2588b9be25cb13ecd31fbd84e01b.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/38eef308b2d7eee8729201e0e28e91eb.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z5TB913339/4edaea7bd3261d7c87cd1774a188b911.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-plus-15-amt-147-лс-престиж-красный-2026/</url></car>
-		<car>
 			<unique_id>57729d3637c0002e34dc501d54be4b1d</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X50+</folder_id>
@@ -637,34 +721,6 @@ Belgee , Белджи , Белжи , Купить Belgee в Оренбурге ,
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-plus-15-amt-147-лс-престиж-серебристый-2026/</url></car>
-		<car>
-			<unique_id>e574957cef51f7f21ad8f573ef061ef1</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>X50+</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Стиль</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2026</year>
-			<price>2505990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z5TB914622</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-plus-15-amt-147-лс-стиль-серебристый-2026/</url></car>
 		<car>
 			<unique_id>f99b2c2d43edbe2b868a80a1fd9ac825</unique_id>
 			<mark_id>Belgee</mark_id>
@@ -1035,120 +1091,6 @@ Belgee , Белджи , Белжи , Купить Belgee в Оренбурге ,
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-i-рестайлинг-15-amt-150-лс-4wd-престиж-plus-серебристый-2026/</url></car>
 		<car>
-			<unique_id>434736df5e3356dcf6852d8c3c49f3c8</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>X70, I Рестайлинг</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Стиль</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2026</year>
-			<price>2710990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>80000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>410990</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z9TB303702</vin>
-			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
-
-Официальный дилер BELGEE - Партнер-Авто Оренбург
-Мы сделаем Вам самые лучшие условия на покупку нового автомобиля BELGEE X70 Стиль
-
- Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/2
-
-ГАРАНТИЯ
-⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-Цена 2’300 т.р. в договоре получается только при покупке нового автомобиля в Кредит или Рассрочку и только при обмене любого вашего автомобиля.
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
-
-ПВ – первоначальный взнос, ЕП – ежемесячный платеж
-
-На 7 лет:
-ПВ = 0 т.р. ЕП = 57,1 т.р. ставка 15,9 %
-ПВ = 230 т.р. ЕП = 51,9 т.р. ставка 15,5 %
-ПВ = 460 т.р. ЕП = 41,8 т.р. ставка 11,3 %
-ПВ = 690 т.р. ЕП = 36,3 т.р. ставка 9,9 %
-ПВ = 920 т.р. ЕП = 31,1 т.р. ставка 8,5 %
-ПВ = 1’150 т.р. ЕП = 26,1 т.р. ставка 7,0 %
-ПВ = 1’380 т.р. ЕП = 20,5 т.р. ставка 4,0 %
-ПВ = 1’610 т.р. ЕП = 15,1 т.р. ставка 0,01 %
-
-На 5 лет:
-ПВ = 0 т.р. ЕП = 68,2 т.р. ставка 14,8 %
-ПВ = 230 т.р. ЕП = 62,0т.р. ставка 14,2 %
-ПВ = 460 т.р. ЕП = 50,7 т.р. ставка 9,4 %
-ПВ = 690 т.р. ЕП = 44,3 т.р. ставка 7,9 %
-ПВ = 920 т.р. ЕП = 38,2 т.р. ставка 6,3 %
-ПВ = 1'150 т.р. ЕП = 32,3 т.р. ставка 4,5 %
-ПВ = 1’380 т.р. ЕП = 25,3 т.р. ставка 0,5 %
-ПВ = 1’610 т.р. ЕП = 21,2 т.р. ставка 0,01 %
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-В эти расчеты ежемесячных платежей включены следующие дополнительные опции и аксессуары:
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- антикоррозионная обработка
-- брызговики
-- сигнализация с модулем (управление функциями сигнализации с телефона)
-- зимняя резина (шип или нешип)
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 100 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 550 т.р.
-При оплате наличными цена нового автомобиля составит 2’950 т.р., при этом выше перечисленное дополнительное оборудование* включено в эту цену!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/4bacd5eea5e138c434138bb5e6d965f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/3c10c1e437a0203a4509db098cbefd43.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/8cd7a4abea9f6db741ee8f68a4d74ba1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/4da8023fd82993f2d7bfc37b4c23d563.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/13437d29607412f04dc69b67c31790f9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/04d1cbb09a208bca5927bfc2c185b909.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/3d625b7f58ba311ef5490552c9ee08bf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/13440e66740a12dab2336a75df3ec560.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/0a0502e7e682fd775cf68c7cba61f774.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/87e80d87cb71858a9ed6787d55dda7f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/31d229677017b938541d9c019b5908b2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/bef0a9ba698ccdc453a88a5cc0303a5b.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/f214c4c2b24c50d6aaa8740639f70dc7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/c15b109838f43bcd5d46486599e9c521.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/4a3c722ef041fa6f1ebb022279ae42e2.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/925ce836f100ad5bf26613a41f7c7494.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/ed71782da04b2279ebac562d366f81cc.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/68ec70c4b4e69fc88987abb71c09f5ce.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/b04e5ab373698473c37b681c03dbade8.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/827843efac42d92a37f1a107cdfbed12.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/4386d3118f7a30571602cc18a1f57b16.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/0ae1b3261340b08d98ad0c21f4e7b4e4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/c17d05a9d54bf3d886fc3fd5223d84a3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/bad9062900f8d2061ba07b491861f116.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/9e9b3e3e5197bf4d9bc5f1a5aff54ca3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/2b1727adcf295286ee530a99053f08f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/52c466c17c584000a4684e91f710e050.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/d35b67a7cc95ab9b589a99161545f780.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/637300af31af64a8edcfbc31a082e7db.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-i-рестайлинг-15-at-150-лс-стиль-белый-2026/</url></car>
-		<car>
 			<unique_id>e4e8092e7c646d48366733288f76a356</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X70, I Рестайлинг</folder_id>
@@ -1160,7 +1102,7 @@ Belgee , Белджи , Белжи , Купить Belgee в Оренбурге ,
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2026</year>
 			<price>2806990</price>
 			<credit_discount>0</credit_discount>
@@ -1334,6 +1276,120 @@ Belgee , Белджи , Белжи , Купить Belgee в Оренбурге ,
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-i-рестайлинг-15-amt-150-лс-4wd-стиль-серый-2026/</url></car>
+		<car>
+			<unique_id>434736df5e3356dcf6852d8c3c49f3c8</unique_id>
+			<mark_id>Belgee</mark_id>
+			<folder_id>X70, I Рестайлинг</folder_id>
+			<modification_id>1.5 AT (150 л.с.)</modification_id>
+			<complectation_name>Стиль</complectation_name>
+			<body_type>Внедорожник</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2026</year>
+			<price>2710990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>80000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>410990</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722Z9TB303702</vin>
+			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ BELGEE❗❗❗❗
+
+Официальный дилер BELGEE - Партнер-Авто Оренбург
+Мы сделаем Вам самые лучшие условия на покупку нового автомобиля BELGEE X70 Стиль
+
+ Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/2
+
+ГАРАНТИЯ
+⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+Цена 2’300 т.р. в договоре получается только при покупке нового автомобиля в Кредит или Рассрочку и только при обмене любого вашего автомобиля.
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
+
+ПВ – первоначальный взнос, ЕП – ежемесячный платеж
+
+На 7 лет:
+ПВ = 0 т.р. ЕП = 57,1 т.р. ставка 15,9 %
+ПВ = 230 т.р. ЕП = 51,9 т.р. ставка 15,5 %
+ПВ = 460 т.р. ЕП = 41,8 т.р. ставка 11,3 %
+ПВ = 690 т.р. ЕП = 36,3 т.р. ставка 9,9 %
+ПВ = 920 т.р. ЕП = 31,1 т.р. ставка 8,5 %
+ПВ = 1’150 т.р. ЕП = 26,1 т.р. ставка 7,0 %
+ПВ = 1’380 т.р. ЕП = 20,5 т.р. ставка 4,0 %
+ПВ = 1’610 т.р. ЕП = 15,1 т.р. ставка 0,01 %
+
+На 5 лет:
+ПВ = 0 т.р. ЕП = 68,2 т.р. ставка 14,8 %
+ПВ = 230 т.р. ЕП = 62,0т.р. ставка 14,2 %
+ПВ = 460 т.р. ЕП = 50,7 т.р. ставка 9,4 %
+ПВ = 690 т.р. ЕП = 44,3 т.р. ставка 7,9 %
+ПВ = 920 т.р. ЕП = 38,2 т.р. ставка 6,3 %
+ПВ = 1'150 т.р. ЕП = 32,3 т.р. ставка 4,5 %
+ПВ = 1’380 т.р. ЕП = 25,3 т.р. ставка 0,5 %
+ПВ = 1’610 т.р. ЕП = 21,2 т.р. ставка 0,01 %
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+В эти расчеты ежемесячных платежей включены следующие дополнительные опции и аксессуары:
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- антикоррозионная обработка
+- брызговики
+- сигнализация с модулем (управление функциями сигнализации с телефона)
+- зимняя резина (шип или нешип)
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 100 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 550 т.р.
+При оплате наличными цена нового автомобиля составит 2’950 т.р., при этом выше перечисленное дополнительное оборудование* включено в эту цену!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/4bacd5eea5e138c434138bb5e6d965f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/3c10c1e437a0203a4509db098cbefd43.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/8cd7a4abea9f6db741ee8f68a4d74ba1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/4da8023fd82993f2d7bfc37b4c23d563.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/13437d29607412f04dc69b67c31790f9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/04d1cbb09a208bca5927bfc2c185b909.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/3d625b7f58ba311ef5490552c9ee08bf.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/13440e66740a12dab2336a75df3ec560.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/0a0502e7e682fd775cf68c7cba61f774.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/87e80d87cb71858a9ed6787d55dda7f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/31d229677017b938541d9c019b5908b2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/bef0a9ba698ccdc453a88a5cc0303a5b.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/f214c4c2b24c50d6aaa8740639f70dc7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/c15b109838f43bcd5d46486599e9c521.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/4a3c722ef041fa6f1ebb022279ae42e2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/925ce836f100ad5bf26613a41f7c7494.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/ed71782da04b2279ebac562d366f81cc.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/68ec70c4b4e69fc88987abb71c09f5ce.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/b04e5ab373698473c37b681c03dbade8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/827843efac42d92a37f1a107cdfbed12.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/4386d3118f7a30571602cc18a1f57b16.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/0ae1b3261340b08d98ad0c21f4e7b4e4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/c17d05a9d54bf3d886fc3fd5223d84a3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/bad9062900f8d2061ba07b491861f116.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/9e9b3e3e5197bf4d9bc5f1a5aff54ca3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/2b1727adcf295286ee530a99053f08f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/52c466c17c584000a4684e91f710e050.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/d35b67a7cc95ab9b589a99161545f780.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722Z9TB303702/637300af31af64a8edcfbc31a082e7db.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x70-i-рестайлинг-15-at-150-лс-стиль-белый-2026/</url></car>
 		<car>
 			<unique_id>da043e7a821ff748068c3d5fde6ef8f4</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1796,7 +1852,7 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2025</year>
 			<price>3094990</price>
 			<credit_discount>0</credit_discount>
@@ -2009,61 +2065,89 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Comfort.
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-cityray-15-amt-147-лс-комфорт-белый-2025/</url></car>
 		<car>
-			<unique_id>172ad540a176881a9b788c8ca08de88f</unique_id>
+			<unique_id>a1feb8f584dfc2326a716e9c7b5b4797</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Комфорт</complectation_name>
+			<complectation_name>Флагман</complectation_name>
 			<body_type>Внедорожник</body_type>
 			<wheel>левый</wheel>
 			<color>Серебряный</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>12</run>
 			<year>2025</year>
-			<price>2849990</price>
-			<credit_discount>120000</credit_discount>
+			<price>3214990</price>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
+			<tradein_discount>270000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>270000</max_discount>
+			<max_discount>714990</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3G43S9XSX704707</vin>
-			<description>ПAРTHEP АВТО - oфициальный дилер GЕELY в гоpодe Opенбуpге.
+			<vin>LB3G43S95SX704114</vin>
+			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
+Официальный дилер GEELY - Партнер-Авто Оренбург
+Мы сделаем Вам самые лучшие условия на покупку нового автомобиля GEELY CITYRAY Флагман
 
-B наличии HOBЫЙ Cityray, в кoмплeктации Comfort.
+ Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/1
 
-✅ ЗИМНЯЯ РЕЗИНА В ПОДАРОК
+ГАРАНТИЯ
+⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
 
-✅ 5 ТО в подарок при покупке нового автомобиля - подробности узнавайте у продавца
+Цена 2’500 т.р. в договоре получается только при покупке нового автомобиля в Кредит или Рассрочку и только при обмене любого вашего автомобиля.
 
-✅ PACCPОЧКA от 0,01%
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
 
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
+Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
 
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
+ПВ – первоначальный взнос, ЕП – ежемесячный платеж
 
-✅ ГAРАHTИЯ 5 ЛEТ
+На 7 лет:
+ПВ = 0 т.р. ЕП = 62,4 т.р. ставка 16,2 %
+ПВ = 250 т.р. ЕП = 56,7 т.р. ставка 15,8 %
+ПВ = 500 т.р. ЕП = 46,6 т.р. ставка 12,2 %
+ПВ = 750 т.р. ЕП = 40,7 т.р. ставка 11,1 %
+ПВ = 1’000 т.р. ЕП = 34,9 т.р. ставка 9,7 %
+ПВ = 1’250 т.р. ЕП = 29,6 т.р. ставка 8,5 %
+ПВ = 1’500 т.р. ЕП = 23,7 т.р. ставка 6,0 %
+ПВ = 1’750 т.р. ЕП = 17,5 т.р. ставка 2,0 %
+ПВ = 2’000 т.р. ЕП = 13,4 т.р. ставка 0,01 %
 
-* Подробности в отделе продаж.
+На 5 лет:
+ПВ = 0 т.р. ЕП = 75,1 т.р. ставка 15,5 %
+ПВ = 250 т.р. ЕП = 68,0 т.р. ставка 14,8 %
+ПВ = 500 т.р. ЕП = 56,1 т.р. ставка 10,3 %
+ПВ = 750 т.р. ЕП = 49,6 т.р. ставка 9,3 %
+ПВ = 1’000 т.р. ЕП = 43,0 т.р. ставка 8,0%
+ПВ = 1’250 т.р. ЕП = 36,4 т.р. ставка 6,2 %
+ПВ = 1’500 т.р. ЕП = 29,1 т.р. ставка 3,0 %
+ПВ = 1’750 т.р. ЕП = 22,9 т.р. ставка 0,01 %
 
-Если новый Джили, то в Джили Партнер Оренбург на Загородном шоссе 13/1.
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
 
-Цена указана с учётом максимальной выгоды.
+В эти расчеты ежемесячных платежей включены следующие дополнительные опции и аксессуары:
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- антикоррозионная обработка
+- брызговики
+- сигнализация с модулем (управление функциями сигнализации с телефона)
+- зимняя резина (шип или нешип)
 
-Так же доступны автомобили в других комплектациях и цветах.
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
 
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
 
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля GЕЕLY.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
+Без обмена вашего автомобиля цена на новый увеличится на 250 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 550 т.р.
+При оплате наличными цена нового автомобиля составит 3’300 т.р., при этом выше перечисленное дополнительное оборудование включено в эту цену!</description>
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-cityray-15-amt-147-лс-комфорт-серебристый-2025/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/geely-cityray-15-amt-147-лс-флагман-серебристый-2025/</url></car>
 		<car>
 			<unique_id>787285610b5f4edda1b7ddaa41d42f93</unique_id>
 			<mark_id>Geely</mark_id>
@@ -2179,90 +2263,6 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Comfort.
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-cityray-15-amt-147-лс-флагман-белый-2025/</url></car>
-		<car>
-			<unique_id>a1feb8f584dfc2326a716e9c7b5b4797</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Cityray</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Флагман</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>12</run>
-			<year>2025</year>
-			<price>3214990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>270000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>714990</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3G43S95SX704114</vin>
-			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
-Официальный дилер GEELY - Партнер-Авто Оренбург
-Мы сделаем Вам самые лучшие условия на покупку нового автомобиля GEELY CITYRAY Флагман
-
- Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/1
-
-ГАРАНТИЯ
-⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-Цена 2’500 т.р. в договоре получается только при покупке нового автомобиля в Кредит или Рассрочку и только при обмене любого вашего автомобиля.
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
-
-ПВ – первоначальный взнос, ЕП – ежемесячный платеж
-
-На 7 лет:
-ПВ = 0 т.р. ЕП = 62,4 т.р. ставка 16,2 %
-ПВ = 250 т.р. ЕП = 56,7 т.р. ставка 15,8 %
-ПВ = 500 т.р. ЕП = 46,6 т.р. ставка 12,2 %
-ПВ = 750 т.р. ЕП = 40,7 т.р. ставка 11,1 %
-ПВ = 1’000 т.р. ЕП = 34,9 т.р. ставка 9,7 %
-ПВ = 1’250 т.р. ЕП = 29,6 т.р. ставка 8,5 %
-ПВ = 1’500 т.р. ЕП = 23,7 т.р. ставка 6,0 %
-ПВ = 1’750 т.р. ЕП = 17,5 т.р. ставка 2,0 %
-ПВ = 2’000 т.р. ЕП = 13,4 т.р. ставка 0,01 %
-
-На 5 лет:
-ПВ = 0 т.р. ЕП = 75,1 т.р. ставка 15,5 %
-ПВ = 250 т.р. ЕП = 68,0 т.р. ставка 14,8 %
-ПВ = 500 т.р. ЕП = 56,1 т.р. ставка 10,3 %
-ПВ = 750 т.р. ЕП = 49,6 т.р. ставка 9,3 %
-ПВ = 1’000 т.р. ЕП = 43,0 т.р. ставка 8,0%
-ПВ = 1’250 т.р. ЕП = 36,4 т.р. ставка 6,2 %
-ПВ = 1’500 т.р. ЕП = 29,1 т.р. ставка 3,0 %
-ПВ = 1’750 т.р. ЕП = 22,9 т.р. ставка 0,01 %
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-В эти расчеты ежемесячных платежей включены следующие дополнительные опции и аксессуары:
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- антикоррозионная обработка
-- брызговики
-- сигнализация с модулем (управление функциями сигнализации с телефона)
-- зимняя резина (шип или нешип)
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 250 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 550 т.р.
-При оплате наличными цена нового автомобиля составит 3’300 т.р., при этом выше перечисленное дополнительное оборудование включено в эту цену!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-cityray-15-amt-147-лс-флагман-серебристый-2025/</url></car>
 		<car>
 			<unique_id>a47f32a66acc597dd4b8e03358c0b8bb</unique_id>
 			<mark_id>Geely</mark_id>
@@ -2432,90 +2432,6 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Comfort.
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-cityray-15-amt-147-лс-спорт-серебристый-2025/</url></car>
 		<car>
-			<unique_id>7e634889a2172d9426520c17c4cd425b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro, I</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Флагман</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2025</year>
-			<price>4899990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>899990</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D6TS011782</vin>
-			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
-Официальный дилер GEELY - Партнер-Авто Оренбург
-Мы сделаем Вам самые лучшие условия на покупку нового автомобиля GEELY MONJARO Флагман
-
- Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/1
-
-ГАРАНТИЯ
-⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
-⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
-⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
-
-Цена 4’000 т.р. в договоре получается только при покупке нового автомобиля в Кредит или Рассрочку и только при обмене любого вашего автомобиля.
-
-⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
-
-Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
-
-ПВ – первоначальный взнос, ЕП – ежемесячный платеж
-
-На 7 лет:
-ПВ = 0 т.р. ЕП = 94,3 т.р. ставка 16,2 %
-ПВ = 400 т.р. ЕП = 85,3 т.р. ставка 15,8 %
-ПВ = 800 т.р. ЕП = 69,7 т.р. ставка 12,2 %
-ПВ = 1’200 т.р. ЕП = 60,5 т.р. ставка 11,1 %
-ПВ = 1’600 т.р. ЕП = 51,3 т.р. ставка 9,7 %
-ПВ = 2’000 т.р. ЕП = 43,1 т.р. ставка 8,5 %
-ПВ = 2’400 т.р. ЕП = 33,9 т.р. ставка 6,0 %
-ПВ = 2’800 т.р. ЕП = 24,5 т.р. ставка 2,0 %
-ПВ = 3’200 т.р. ЕП = 18,1 т.р. ставка 0,01 %
-
-На 5 лет:
-ПВ = 0 т.р. ЕП = 113,7 т.р. ставка 15,5 %
-ПВ = 400 т.р. ЕП = 102,3 т.р. ставка 14,8 %
-ПВ = 800 т.р. ЕП = 83,9 т.р. ставка 10,3 %
-ПВ = 1’200 т.р. ЕП = 73,6 т.р. ставка 9,3 %
-ПВ = 1’600 т.р. ЕП = 63,3 т.р. ставка 8,0%
-ПВ = 2’000 т.р. ЕП = 52,9 т.р. ставка 6,2 %
-ПВ = 2’400 т.р. ЕП = 41,7 т.р. ставка 3,0 %
-ПВ = 2’800 т.р. ЕП = 32,0 т.р. ставка 0,01 %
-
-☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
-
-В эти расчеты ежемесячных платежей включены следующие дополнительные опции и аксессуары:
-- защита картера двигателя
-- защитная сетка радиатора
-- коврики
-- антикоррозионная обработка
-- брызговики
-- сигнализация с модулем (управление функциями сигнализации с телефона)
-- зимняя резина (шип или нешип)
-
-❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
-
-
-Без обмена вашего автомобиля цена на новый увеличится на 250 т.р.
-Без кредита или рассрочки цена на новый автомобиль увеличится на 650 т.р.
-При оплате наличными цена нового автомобиля составит 4’900 т.р., при этом выше перечисленное дополнительное оборудование включено в эту цену!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-i-20-at-238-лс-4wd-флагман-черный-2025/</url></car>
-		<car>
 			<unique_id>c3cccbf7c7212dd3cba93a6ea929d971</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro, I</folder_id>
@@ -2630,6 +2546,90 @@ B наличии HOBЫЙ Cityray, в кoмплeктации Comfort.
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-i-20-at-238-лс-4wd-флагман-серый-2025/</url></car>
+		<car>
+			<unique_id>7e634889a2172d9426520c17c4cd425b</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro, I</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Флагман</complectation_name>
+			<body_type>Внедорожник</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2025</year>
+			<price>4899990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>899990</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D6TS011782</vin>
+			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
+Официальный дилер GEELY - Партнер-Авто Оренбург
+Мы сделаем Вам самые лучшие условия на покупку нового автомобиля GEELY MONJARO Флагман
+
+ Наш адрес: г. Оренбург, Загородное шоссе, зд. 13/1
+
+ГАРАНТИЯ
+⚡⚡ до 5 лет или до 150 000 км! Надежность, проверенная временем ⚡⚡
+⚡⚡ работы в ТО 1 – 5 по цене 1р. при покупке нового автомобиля ⚡⚡
+⚡⚡ дарим услугу «Шинный отель» при покупке нового автомобиля ⚡⚡
+
+Цена 4’000 т.р. в договоре получается только при покупке нового автомобиля в Кредит или Рассрочку и только при обмене любого вашего автомобиля.
+
+⚡⚡ Мы поможем получить кредит только по 2-м документам ⚡⚡
+
+Ниже представлены ориентировочные расчеты по ежемесячным платежам, срокам и ставкам…
+
+ПВ – первоначальный взнос, ЕП – ежемесячный платеж
+
+На 7 лет:
+ПВ = 0 т.р. ЕП = 94,3 т.р. ставка 16,2 %
+ПВ = 400 т.р. ЕП = 85,3 т.р. ставка 15,8 %
+ПВ = 800 т.р. ЕП = 69,7 т.р. ставка 12,2 %
+ПВ = 1’200 т.р. ЕП = 60,5 т.р. ставка 11,1 %
+ПВ = 1’600 т.р. ЕП = 51,3 т.р. ставка 9,7 %
+ПВ = 2’000 т.р. ЕП = 43,1 т.р. ставка 8,5 %
+ПВ = 2’400 т.р. ЕП = 33,9 т.р. ставка 6,0 %
+ПВ = 2’800 т.р. ЕП = 24,5 т.р. ставка 2,0 %
+ПВ = 3’200 т.р. ЕП = 18,1 т.р. ставка 0,01 %
+
+На 5 лет:
+ПВ = 0 т.р. ЕП = 113,7 т.р. ставка 15,5 %
+ПВ = 400 т.р. ЕП = 102,3 т.р. ставка 14,8 %
+ПВ = 800 т.р. ЕП = 83,9 т.р. ставка 10,3 %
+ПВ = 1’200 т.р. ЕП = 73,6 т.р. ставка 9,3 %
+ПВ = 1’600 т.р. ЕП = 63,3 т.р. ставка 8,0%
+ПВ = 2’000 т.р. ЕП = 52,9 т.р. ставка 6,2 %
+ПВ = 2’400 т.р. ЕП = 41,7 т.р. ставка 3,0 %
+ПВ = 2’800 т.р. ЕП = 32,0 т.р. ставка 0,01 %
+
+☝️ На изменение/увеличение цены нового автомобиля, а также на ежемесячные платежи может повлиять оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового, а также условия, по которым одобрит банк и стоимость полиса КАСКО!
+
+В эти расчеты ежемесячных платежей включены следующие дополнительные опции и аксессуары:
+- защита картера двигателя
+- защитная сетка радиатора
+- коврики
+- антикоррозионная обработка
+- брызговики
+- сигнализация с модулем (управление функциями сигнализации с телефона)
+- зимняя резина (шип или нешип)
+
+❗❗ Воспользуйтесь у нас лучшими условиями покупки в Кредит в России ❗❗
+
+
+Без обмена вашего автомобиля цена на новый увеличится на 250 т.р.
+Без кредита или рассрочки цена на новый автомобиль увеличится на 650 т.р.
+При оплате наличными цена нового автомобиля составит 4’900 т.р., при этом выше перечисленное дополнительное оборудование включено в эту цену!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-i-20-at-238-лс-4wd-флагман-черный-2025/</url></car>
 		<car>
 			<unique_id>f138bce59656cce707fa64918335b850</unique_id>
 			<mark_id>Geely</mark_id>
