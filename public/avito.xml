@@ -178,62 +178,6 @@ Belgee , Белджи , Белжи , Купить Belgee в Оренбурге ,
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-serebristyy-2026/</url></car>
 		<car>
-			<unique_id>4e7ce0bc837907a5721c8810401864c4</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>X50+</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Стиль</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2026</year>
-			<price>2505990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z1TB914567</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-style-serebristyy-2026/</url></car>
-		<car>
-			<unique_id>f99b2c2d43edbe2b868a80a1fd9ac825</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>X50+</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Стиль</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2026</year>
-			<price>2505990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6TB914225</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-style-chernyy-2026/</url></car>
-		<car>
 			<unique_id>027bcf62ddd4e0cff1a9200c84ebd24b</unique_id>
 			<mark_id>Belgee</mark_id>
 			<folder_id>X50+</folder_id>
@@ -261,6 +205,34 @@ Belgee , Белджи , Белжи , Купить Belgee в Оренбурге ,
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-style-seryy-2026/</url></car>
+		<car>
+			<unique_id>4e7ce0bc837907a5721c8810401864c4</unique_id>
+			<mark_id>Belgee</mark_id>
+			<folder_id>X50+</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Стиль</complectation_name>
+			<body_type>Внедорожник</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2026</year>
+			<price>2505990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z1TB914567</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<url>https://geely-partner-orenburg.ru/cars/belgee-x50-plus-15-amt-147-hp-style-serebristyy-2026/</url></car>
 		<car>
 			<unique_id>dfcb2f02bb215f71d0114782ecae6c75</unique_id>
 			<mark_id>Belgee</mark_id>
@@ -2018,11 +1990,11 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			<run>4</run>
 			<year>2025</year>
 			<price>3254990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>165000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>270000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>704990</max_discount>
+			<max_discount>869990</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3G43S96SX705238</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
@@ -2186,11 +2158,11 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			<run>3</run>
 			<year>2025</year>
 			<price>3254990</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>165000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>270000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>704990</max_discount>
+			<max_discount>869990</max_discount>
 			<currency>RUR</currency>
 			<vin>LB3G43S94SX704802</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
