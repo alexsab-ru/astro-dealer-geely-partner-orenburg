@@ -9,7 +9,7 @@
 			<body_type>Седан</body_type>
 			<wheel>левый</wheel>
 			<color>Серый</color>
-			<metallic>нет</metallic>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<run>4</run>
@@ -111,81 +111,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/belgee-s50-15-at-122-hp-active-basalt-grey-2026/</url></car>
-		<car>
-			<unique_id>00c726818c0ec16564f979561c5c3b5b</unique_id>
-			<mark_id>Belgee</mark_id>
-			<folder_id>S50</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Стиль</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2026</year>
-			<price>2129990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>120000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>329990</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8824Z7TB204127</vin>
-			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
-
-В наличии АБСОЛЮТНО новый Belgee S50, в комплектации Style
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Если новый Belgee, то в Belgee Партнер Оренбург на Загородном шоссе 13/2
-
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/eb6a75ed4f6fac0c80ebd9c9606c8e0a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/5b478a9f99a40562a9743d1670ee011a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/23c0672bb739b93bbf8c2c9dd78d63f6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/69d785e1ea0480c5b4587883d9f1181a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/1c103d2d9e7080f6236092a665678a71.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/29a34fa2beaa25c23d16b385650b5f24.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/5d39d0129aaf9dd37bbcfba4a6dad493.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/165ccfc30da647daa397a32667343962.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/4078e150e5210f40d6f11a433a822450.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/b1c10727da727e3d8ae18f30ccdad68f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/ea22979b512fc507a830efeba9effc2a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/1f244dda6cf7e3704a7a94e741c79fe8.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/e78e169bb8f60452e114727aa48dc7c8.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/0be44fd816e7d47852b23a6d100c2e83.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/0225cb8b6060f44e87a8fc4e86107c1b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/744ca9875d596f87e2a541bae902cf6c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/36b2f129a8f114817d0a177ed6c0e541.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/1176223fda3bf6fa9ebcd3f0bfbfbbb6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/c301d19ebd9c56bf8b5b0c4251d1b8f6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/a08241f22c45339a9b1061a67924f456.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/624800d56247a82f279b51bd2e819a2b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8824Z7TB204127/ce69c52bfde4be38e54d3ceb09d4b23d.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/belgee-s50-15-at-122-hp-style-crystal-white-2026/</url></car>
 		<car>
 			<unique_id>d5a3f5ac6a663055b217a2bb256d04e9</unique_id>
 			<mark_id>Belgee</mark_id>
@@ -2258,7 +2183,7 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-hp-4wd-luxe-black-2025/</url></car>
 		<car>
-			<unique_id>42a4a532704095a879055e9344e41a3d</unique_id>
+			<unique_id>dbb92f9d8fac4302cef5f71888f956f2</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
@@ -2269,7 +2194,7 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2025</year>
 			<price>3094990</price>
 			<credit_discount>0</credit_discount>
@@ -2278,7 +2203,7 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			<optional_discount>0</optional_discount>
 			<max_discount>694990</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3G43S98SX705418</vin>
+			<vin>LB3G43S96SX705451</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
 Официальный дилер GEELY - Партнер-Авто Оренбург
 Мы сделаем Вам самые лучшие условия на покупку нового автомобиля GEELY CITYRAY Люкс
@@ -2342,7 +2267,7 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-cityray-15-amt-147-hp-luxury-white-2025/</url></car>
 		<car>
-			<unique_id>dbb92f9d8fac4302cef5f71888f956f2</unique_id>
+			<unique_id>42a4a532704095a879055e9344e41a3d</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
@@ -2353,7 +2278,7 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>4</run>
 			<year>2025</year>
 			<price>3094990</price>
 			<credit_discount>0</credit_discount>
@@ -2362,7 +2287,7 @@ Geely , Жили , Джили , Купить Geely в Оренбурге , Ку�
 			<optional_discount>0</optional_discount>
 			<max_discount>694990</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3G43S96SX705451</vin>
+			<vin>LB3G43S98SX705418</vin>
 			<description>❗❗❗❗ЛУЧШИЕ УCЛOВИЯ ПОKУПKИ AВТОМOБИЛЯ GEELY❗❗❗❗
 Официальный дилер GEELY - Партнер-Авто Оренбург
 Мы сделаем Вам самые лучшие условия на покупку нового автомобиля GEELY CITYRAY Люкс
