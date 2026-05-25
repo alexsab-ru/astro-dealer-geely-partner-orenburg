@@ -8,7 +8,7 @@
   {
     "brand": "Geely",
     "model": "Cityray",
-    "price": 2400000,
+    "price": 2500000,
     "benefit": 714990
   },
   {
@@ -20,13 +20,13 @@
   {
     "brand": "Geely",
     "model": "OKAVANGO",
-    "price": 2800000,
-    "benefit": 1108990
+    "price": 3250000,
+    "benefit": 658990
   },
   {
     "brand": "Geely",
     "model": "Preface",
-    "price": 2645000,
-    "benefit": 922190
+    "price": 2990000,
+    "benefit": 439990
   }
 ]
