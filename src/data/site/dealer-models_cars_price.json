@@ -9,18 +9,24 @@
     "brand": "Geely",
     "model": "Cityray",
     "price": 2325000,
-    "benefit": 869990
+    "benefit": 559990
   },
   {
     "brand": "Geely",
     "model": "Monjaro",
     "price": 3925000,
-    "benefit": 774990
+    "benefit": 779990
   },
   {
     "brand": "Geely",
     "model": "OKAVANGO",
-    "price": 3195000,
-    "benefit": 798990
+    "price": 3190000,
+    "benefit": 803990
+  },
+  {
+    "brand": "Geely",
+    "model": "Preface",
+    "price": 2830000,
+    "benefit": 604990
   }
 ]
