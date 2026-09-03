@@ -356,65 +356,6 @@
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-i-20-at-238-hp-4wd-flagship-emerald-2026/</url></car>
 		<car>
-			<unique_id>c72981d33786ae4697e796a00fb9926c</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro, I</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Флагман</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2026</year>
-			<price>4954990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>904990</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D2TS085880</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/d3ba4f979375d4d01fe214749e0d8936.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/6c2e74c87d0bbeb08d231484d8e7daf3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/ec1cf1c287866e899cf9dcd5b42057c5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/473c95c69f24d51a820e2f93a8b48339.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/219e383d8b3f8d24a5b33d2960710a4e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/07a9df89a5811c33537294b04016c637.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/b883484194ddbfb2d93d7ed10288bbeb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/035c9e91836a0a6580ae04fed45140a5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/f303bffb120e3cf1a25bdc633629aaed.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/9e806f4c237a920340f142dfba52abc2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/60af8b27310c30493e55b47db076978f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/c9e248b3c80dbbfc1dc3dadc049bae0c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/9fbf96e975cb0c5230cc0dc115b707e9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/c4a165fa510346d0f78966f361df0663.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/343b7af3594387e36241f92e782cd79e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/90a365089fb133cad9e94c2807bb7b2c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/b901d779594bff3a42b05709bd5ac4bf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/0dc19faba38df8aabdcd6594ce54c8d0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/d709339bd0aa00742237e9bcf6bcbf6f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/64db46cb10f2c6f45011bad3cc391da9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/f99f914af25b9e79001c40d0e198ae36.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/3a71ee03255d30fe831bb0f0926e9d7e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/8426a12578fb0d53f0570ace4d77eda7.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/b62cf8c0651c7f178f397bfd7759ec96.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/dcc76aea809ac0b1c045c33c0e9993ed.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/b629b9a4812570de14ddc7ed6cc24aa3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/40de78abd3bec013c85f53e8449f0043.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/a67b97224c51a3f99c9ad31f08dae6a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/bf76b5642cab1f1519ef44c245ea11b7.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB37852D2TS085880/ce4c3d191a98162f87245b93f58ad4b3.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-monjaro-i-20-at-238-hp-4wd-flagship-gray-2026/</url></car>
-		<car>
 			<unique_id>6f19dc9a9265b3f86a75a3fefa5e5a77</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro, I</folder_id>
