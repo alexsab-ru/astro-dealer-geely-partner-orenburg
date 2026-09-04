@@ -119,34 +119,6 @@
 			</multiposting>
 		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-20-at-200-hp-4wd-luxury-black-2026/</url></car>
 		<car>
-			<unique_id>dbc6574c77818720601e27df92b840be</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Cityray</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Люкс</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2026</year>
-			<price>3204990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>270000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>549990</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3G43S92TX410865</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-cityray-15-amt-147-hp-luxury-white-2026/</url></car>
-		<car>
 			<unique_id>4237d8bd7b9af0806b0bac33c8d8bc3d</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I Рестайлинг</folder_id>
@@ -173,7 +145,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-coolray-i-facelift-15-amt-147-hp-exclusive-magnetic-grey-2026/</url></car>
+		<url>https://geely-partner-orenburg.ru/cars/geely-coolray-i-facelift-15-amt-147-hp-exclusive-grey-2026/</url></car>
 		<car>
 			<unique_id>095897417e21f2ea847ae120d5d1d063</unique_id>
 			<mark_id>Geely</mark_id>
@@ -493,7 +465,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2026</year>
 			<price>3329990</price>
 			<credit_discount>0</credit_discount>
