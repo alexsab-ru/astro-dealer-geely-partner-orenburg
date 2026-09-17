@@ -1,64 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>b066b2f01e0c86a53f61037b21aad430</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Люкс</complectation_name>
-			<body_type>Внедорожник</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>16</run>
-			<year>2026</year>
-			<price>3449990</price>
-			<credit_discount>319990</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>330000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>649990</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S79TB060489</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/485499296293590a8d5cd1c136fac6c2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/3d4b23bce761de5a6884663a6faf83cc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/754115b95ddef4cf92d9ae2eeea3c439.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/5d57f2941018f0dd7eac37eb500f5141.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/ac0fbb0bf03a421651af7c121985e8c1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/77339fe01d3bef6ec2bd1fc3458fb12e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/fa01c2259ffdd0b7ffe51e6e01af9d91.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/41888aadced3d99a039ad62f8b5bc159.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/72c559bbda67e5a38dfe57c4f2ae4546.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/65aa09f020115fb38f28b97fcdf007e7.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/8c41ce3e683edac6b35aa975ac95770d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/e099ca64a0d4dc12de92424cca4c0fdf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/2dea00c3b145f2934b1eca625f172861.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/22f87374765b7f2fe299e093c09c0147.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/cde4b714ad023c0f795810b7eee0a60b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/082421b73480653229865c45d3da8d53.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/bc2eb96c7f95a35b5fe5bc15791dfea3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/e99e0b11d48025bb568e0eabdc024d96.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/19c8e3deedfa2982de69108be703d73c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/74e84a81674261a435b6637014aaf5c2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/be55ec9a3ec7913453232355b96da4a1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/028477d4cea9c985d5dc27921ed17c3a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/b10c4223465b7eedc776d9452a8d4fd9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/3ba213e48b53c6fe645d52238a98a741.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/6bd4e458a862ed0f20e72ed86dfb5b3b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/fc8fac4b04210b5bab0ab7688dcf34bc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/b075714a4144d56174718d330d1017a2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/1b1ffc7152648613a34ca5854240b482.jpeg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S79TB060489/12961863d2687abbcb39e782c10962eb.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://geely-partner-orenburg.ru/cars/geely-atlas-ii-15-amt-147-hp-luxury-black-2026/</url></car>
-		<car>
 			<unique_id>4237d8bd7b9af0806b0bac33c8d8bc3d</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I Рестайлинг</folder_id>
